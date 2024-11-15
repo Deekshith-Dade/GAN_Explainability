@@ -1,0 +1,57 @@
+{
+  "os":  "Linux-6.8.0-45-generic-x86_64-with-glibc2.39",
+  "python":  "3.12.3",
+  "startedAt":  "2024-11-05T05:35:09.286881Z",
+  "program":  "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/kclExplainability.py",
+  "codePath":  "kclExplainability.py",
+  "email":  "deekshithreddy180@gmail.com",
+  "root":  "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability",
+  "host":  "zagreus",
+  "username":  "deekshith.dade",
+  "executable":  "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/bin/python",
+  "codePathLocal":  "kclExplainability.py",
+  "cpu_count":  64,
+  "cpu_count_logical":  64,
+  "gpu":  "[NVIDIA A800 40GB Active, NVIDIA A800 40GB Active, NVIDIA A800 40GB Active, NVIDIA A800 40GB Active]",
+  "gpu_count":  4,
+  "disk":  {
+    "/":  {
+      "total":  "231379357696",
+      "used":  "23412060160"
+    }
+  },
+  "memory":  {
+    "total":  "811316768768"
+  },
+  "cpu":  {
+    "count":  64,
+    "countLogical":  64
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA A800 40GB Active",
+      "memoryTotal":  "42949672960",
+      "cudaCores":  6912,
+      "architecture":  "Ampere"
+    },
+    {
+      "name":  "NVIDIA A800 40GB Active",
+      "memoryTotal":  "42949672960",
+      "cudaCores":  6912,
+      "architecture":  "Ampere"
+    },
+    {
+      "name":  "NVIDIA A800 40GB Active",
+      "memoryTotal":  "42949672960",
+      "cudaCores":  6912,
+      "architecture":  "Ampere"
+    },
+    {
+      "name":  "NVIDIA A800 40GB Active",
+      "memoryTotal":  "42949672960",
+      "cudaCores":  6912,
+      "architecture":  "Ampere"
+    }
+  ],
+  "cudaVersion":  "12.5"
+}

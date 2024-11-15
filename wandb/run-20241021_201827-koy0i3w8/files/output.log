@@ -1,0 +1,486 @@
+Starting Training
+Explainibility training started
+Begin epoch 0
+Batch 1 of 15
+Discriminator Step 3 of 3
+/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/autograd/graph.py:769: UserWarning: Attempting to run cuBLAS, but there was no current CUDA context! Attempting to set the primary context... (Triggered internally at ../aten/src/ATen/cuda/CublasHandlePool.cpp:135.)
+  return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+Generator step 1 of 1
+Batch 2 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 3 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 4 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 5 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 6 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 7 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 8 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 9 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 10 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 11 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 12 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 13 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 14 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 15 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Ep: 0, average train loss: wgan: -0.0659412,diff: -0.0659412
+Ep: 0, average train loss: gen : -0.0911239,diff: -0.0911239
+Evaluating performance
+ atch 0 of 2           
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 2           
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 1
+Batch 1 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 2 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 3 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 4 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 5 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 6 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 7 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 8 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 9 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 10 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 11 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 12 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 13 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 14 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 15 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Ep: 1, average train loss: wgan: -0.1225271,diff: -0.0565859
+Ep: 1, average train loss: gen : -0.5098192,diff: -0.4186954
+Evaluating performance
+ atch 0 of 2           
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 2           
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 2
+Batch 1 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 2 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 3 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 4 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 5 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 6 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 7 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 8 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 9 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 10 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 11 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 12 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 13 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 14 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 15 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Ep: 2, average train loss: wgan: -0.1608926,diff: -0.0383655
+Ep: 2, average train loss: gen : -0.7490641,diff: -0.2392448
+Evaluating performance
+ atch 0 of 2           
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 2           
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 3
+Batch 1 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 2 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 3 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 4 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 5 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 6 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 7 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 8 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 9 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 10 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 11 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 12 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 13 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 14 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 15 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Ep: 3, average train loss: wgan: -0.1973847,diff: -0.0364921
+Ep: 3, average train loss: gen : -0.9419239,diff: -0.1928598
+Evaluating performance
+ atch 0 of 2           
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 2           
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 4
+Batch 1 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 2 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 3 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 4 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 5 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 6 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 7 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 8 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 9 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 10 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 11 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 12 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 13 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 14 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 15 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Ep: 4, average train loss: wgan: -0.2336227,diff: -0.0362380
+Ep: 4, average train loss: gen : -1.1288521,diff: -0.1869282
+Evaluating performance
+ atch 0 of 2           
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 2           
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 5
+Batch 1 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 2 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 3 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 4 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 5 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 6 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 7 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 8 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 9 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 10 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 11 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 12 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 13 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 14 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 15 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Ep: 5, average train loss: wgan: -0.2700157,diff: -0.0363931
+Ep: 5, average train loss: gen : -1.3151075,diff: -0.1862553
+Evaluating performance
+ atch 0 of 2           
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 2           
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 6
+Batch 1 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 2 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 3 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 4 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 5 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 6 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 7 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 8 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 9 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 10 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 11 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 12 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 13 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 14 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 15 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Ep: 6, average train loss: wgan: -0.3068319,diff: -0.0368161
+Ep: 6, average train loss: gen : -1.5025735,diff: -0.1874660
+Evaluating performance
+ atch 0 of 2           
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 2           
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 7
+Batch 1 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 2 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 3 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 4 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 5 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 6 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 7 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 8 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 9 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 10 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 11 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 12 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 13 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 14 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 15 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Ep: 7, average train loss: wgan: -0.3441685,diff: -0.0373366
+Ep: 7, average train loss: gen : -1.6921600,diff: -0.1895865
+Evaluating performance
+ atch 0 of 2           
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 2           
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 8
+Batch 1 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 2 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 3 of 15
+Discriminator Step 3 of 3
+Generator step 1 of 1
+Batch 4 of 15
+Traceback (most recent call last):
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/dummyData.py", line 143, in <module>
+    T.trainExplainabilityNetworks(discriminator=discriminator,
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/training.py", line 126, in trainExplainabilityNetworks
+    trueData = trueData.to(device)
+               ^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

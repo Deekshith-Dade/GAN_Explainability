@@ -1,0 +1,44 @@
+2024-10-19 01:07:34,832 INFO    MainThread:838232 [wandb_setup.py:_flush():77] Current SDK version is 0.18.0
+2024-10-19 01:07:34,832 INFO    MainThread:838232 [wandb_setup.py:_flush():77] Configure stats pid to 838232
+2024-10-19 01:07:34,837 INFO    MainThread:838232 [wandb_setup.py:_flush():77] Loading settings from /home/collab/deekshith.dade/.config/wandb/settings
+2024-10-19 01:07:34,838 INFO    MainThread:838232 [wandb_setup.py:_flush():77] Loading settings from /usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/wandb/settings
+2024-10-19 01:07:34,840 INFO    MainThread:838232 [wandb_setup.py:_flush():77] Loading settings from environment variables: {'api_key': '***REDACTED***'}
+2024-10-19 01:07:34,841 INFO    MainThread:838232 [wandb_setup.py:_flush():77] Applying setup settings: {'_disable_service': False}
+2024-10-19 01:07:34,843 INFO    MainThread:838232 [wandb_setup.py:_flush():77] Inferring run settings from compute environment: {'program_relpath': 'dummyData.py', 'program_abspath': '/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/dummyData.py', 'program': '/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/dummyData.py'}
+2024-10-19 01:07:34,843 INFO    MainThread:838232 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-10-19 01:07:34,845 INFO    MainThread:838232 [wandb_init.py:_log_setup():525] Logging user logs to /usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/wandb/run-20241019_010734-tvopqwuw/logs/debug.log
+2024-10-19 01:07:34,846 INFO    MainThread:838232 [wandb_init.py:_log_setup():526] Logging internal logs to /usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/wandb/run-20241019_010734-tvopqwuw/logs/debug-internal.log
+2024-10-19 01:07:34,848 INFO    MainThread:838232 [wandb_init.py:init():609] calling init triggers
+2024-10-19 01:07:34,851 INFO    MainThread:838232 [wandb_init.py:init():616] wandb.init called with sweep_config: {}
+config: {'learning_rate': [0.001, 0.0001], 'lossType': 'wgan', 'loassParams': {'learningRate_gen': 0.001, 'learningRate_dis': 0.0001, 'type': 'wgan', 'weights': {'discriminatorWeight': 1.0, 'descrimFakeWeight': 1.0, 'descrimTrueWeight': 1.0, 'classificationWeight': 1.0, 'generatorWeight': 1.0, 'gradWeight': 100.0, 'modificationWeight': 1}}, 'batchSize': 60, 'architecture': 'networkLabel', 'dataset_id': 'SynthSins', 'optimType': 'adam', 'randSeed': 7777, 'genIter_perEp': [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2], 'discrimIter_perEp': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'classificationIter_perEp': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'modPenalties': {'method': ['l1', 'l1_dt'], 'weights': [1e-05, 0.01]}}
+2024-10-19 01:07:34,853 INFO    MainThread:838232 [wandb_init.py:init():659] starting backend
+2024-10-19 01:07:34,855 INFO    MainThread:838232 [wandb_init.py:init():663] setting up manager
+2024-10-19 01:07:34,866 INFO    MainThread:838232 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-19 01:07:34,871 INFO    MainThread:838232 [wandb_init.py:init():671] backend started and connected
+2024-10-19 01:07:34,885 INFO    MainThread:838232 [wandb_init.py:init():766] updated telemetry
+2024-10-19 01:07:34,887 INFO    MainThread:838232 [wandb_init.py:init():799] communicating run to backend with 90.0 second timeout
+2024-10-19 01:07:35,349 INFO    MainThread:838232 [wandb_init.py:init():850] starting run threads in backend
+2024-10-19 01:07:35,722 INFO    MainThread:838232 [wandb_run.py:_console_start():2466] atexit reg
+2024-10-19 01:07:35,723 INFO    MainThread:838232 [wandb_run.py:_redirect():2312] redirect: wrap_raw
+2024-10-19 01:07:35,724 INFO    MainThread:838232 [wandb_run.py:_redirect():2377] Wrapping output streams.
+2024-10-19 01:07:35,724 INFO    MainThread:838232 [wandb_run.py:_redirect():2402] Redirects installed.
+2024-10-19 01:07:35,740 INFO    MainThread:838232 [wandb_init.py:init():893] run started, returning control to user process
+2024-10-19 01:10:45,411 ERROR   MainThread:838232 [util.py:get_module():277] Error importing optional module plotly.tools
+Traceback (most recent call last):
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/wandb/util.py", line 243, in import_module_lazy
+    return sys.modules[name]
+           ~~~~~~~~~~~^^^^^^
+KeyError: 'plotly.tools'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/wandb/util.py", line 272, in get_module
+    return import_module_lazy(name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/wandb/util.py", line 245, in import_module_lazy
+    spec = importlib.util.find_spec(name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib.util>", line 92, in find_spec
+ModuleNotFoundError: No module named 'plotly'
+2024-10-19 01:10:45,496 WARNING MsgRouterThr:838232 [router.py:message_loop():77] message_loop has been closed

@@ -1,0 +1,13 @@
+
+Generator
+1. Learning Rate
+2. Modification Loss Weight
+
+
+
+Discriminator
+1. Learning Rate
+2. Grad Penalty Weight == 1.
+3. descrimFakeWeight
+4. descrimTrueWeight
+5. discriminatorWeight

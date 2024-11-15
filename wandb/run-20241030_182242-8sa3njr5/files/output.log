@@ -1,0 +1,47 @@
+Starting Training
+Explainibility training started
+Begin epoch 0
+Discriminator Step 1 of 1           
+Traceback (most recent call last):
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/kclExplainability.py", line 203, in <module>
+    T.trainExplainabilityNetworks(discriminator=discriminator,
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/training.py", line 153, in trainExplainabilityNetworks
+    TrueResults = discriminator(normal_data)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/nn/parallel/data_parallel.py", line 176, in forward
+    inputs, module_kwargs = self.scatter(inputs, kwargs, self.device_ids)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/nn/parallel/data_parallel.py", line 198, in scatter
+    return scatter_kwargs(inputs, kwargs, device_ids, dim=self.dim)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/nn/parallel/scatter_gather.py", line 77, in scatter_kwargs
+    scattered_inputs = scatter(inputs, target_gpus, dim) if inputs else []
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/nn/parallel/scatter_gather.py", line 64, in scatter
+    res = scatter_map(inputs)
+          ^^^^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/nn/parallel/scatter_gather.py", line 51, in scatter_map
+    return list(zip(*map(scatter_map, obj)))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/nn/parallel/scatter_gather.py", line 47, in scatter_map
+    return Scatter.apply(target_gpus, None, dim, obj)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/autograd/function.py", line 574, in apply
+    return super().apply(*args, **kwargs)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/nn/parallel/_functions.py", line 96, in forward
+    outputs = comm.scatter(input, target_gpus, chunk_sizes, ctx.dim, streams)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/nn/parallel/comm.py", line 188, in scatter
+    return tuple(torch._C._scatter(tensor, devices, chunk_sizes, dim, streams))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: CUDA error: out of memory
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.

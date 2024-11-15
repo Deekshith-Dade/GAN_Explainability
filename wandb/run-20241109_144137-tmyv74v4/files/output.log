@@ -1,0 +1,588 @@
+Starting Training
+Explainibility training started
+Begin epoch 0
+Batch 0 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 0, average train loss: wgan: 0.0060982,diff: 0.0060982
+Ep: 0, average train loss: gen : -0.0000563,diff: -0.0000563
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 4
+Looking for example data
+
+ atch 2 of 4
+Looking for example data
+
+ atch 3 of 4
+Looking for example data
+
+
+/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/training.py:118: UserWarning: Tight layout not applied. tight_layout cannot make Axes height small enough to accommodate all Axes decorations.
+  plt.tight_layout()
+Logging to wandb
+Begin epoch 1
+Batch 0 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 1, average train loss: wgan: 0.0064189,diff: 0.0003207
+Ep: 1, average train loss: gen : -0.0000449,diff: 0.0000114
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 4
+Looking for example data
+
+ atch 2 of 4
+Looking for example data
+
+ atch 3 of 4
+Looking for example data
+
+
+/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/training.py:118: UserWarning:
+
+Tight layout not applied. tight_layout cannot make Axes height small enough to accommodate all Axes decorations.
+Logging to wandb
+Begin epoch 2
+Batch 0 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 2, average train loss: wgan: 0.0063352,diff: -0.0000837
+Ep: 2, average train loss: gen : -0.0000344,diff: 0.0000105
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 4
+Looking for example data
+
+ atch 2 of 4
+Looking for example data
+
+ atch 3 of 4
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 3
+Batch 0 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 3, average train loss: wgan: 0.0063055,diff: -0.0000297
+Ep: 3, average train loss: gen : -0.0000292,diff: 0.0000052
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 4
+Looking for example data
+
+ atch 2 of 4
+Looking for example data
+
+ atch 3 of 4
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 4
+Batch 0 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 9 of 10
+
+Exception ignored in: <function _releaseLock at 0x7fa7ff1fde40>
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/logging/__init__.py", line 243, in _releaseLock
+    def _releaseLock():
+
+KeyboardInterrupt:
+Traceback (most recent call last):
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/training.py", line 196, in trainExplainabilityNetworks
+    abnormal_data, flag = next(abnormal_data_iter)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 630, in __next__
+    data = self._next_data()
+           ^^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 1317, in _next_data
+    raise StopIteration
+StopIteration
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 1131, in _try_get_data
+    data = self._data_queue.get(timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/multiprocessing/queues.py", line 114, in get
+    raise Empty
+_queue.Empty
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/kclExplainability.py", line 210, in <module>
+    T.trainExplainabilityNetworks(discriminator=discriminator,
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/training.py", line 199, in trainExplainabilityNetworks
+    abnormal_data, flag = next(abnormal_data_iter)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 630, in __next__
+    data = self._next_data()
+           ^^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 1327, in _next_data
+    idx, data = self._get_data()
+                ^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 1293, in _get_data
+    success, data = self._try_get_data()
+                    ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 1144, in _try_get_data
+    raise RuntimeError(f'DataLoader worker (pid(s) {pids_str}) exited unexpectedly') from e
+RuntimeError: DataLoader worker (pid(s) 148248, 148311, 148374, 148437, 148500, 148563, 148626, 148689, 148752, 148815, 148878) exited unexpectedly

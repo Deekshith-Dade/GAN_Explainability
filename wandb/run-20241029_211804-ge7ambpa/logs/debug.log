@@ -1,0 +1,26 @@
+2024-10-29 21:18:04,937 INFO    MainThread:1365820 [wandb_setup.py:_flush():77] Current SDK version is 0.18.0
+2024-10-29 21:18:04,937 INFO    MainThread:1365820 [wandb_setup.py:_flush():77] Configure stats pid to 1365820
+2024-10-29 21:18:04,939 INFO    MainThread:1365820 [wandb_setup.py:_flush():77] Loading settings from /home/collab/deekshith.dade/.config/wandb/settings
+2024-10-29 21:18:04,941 INFO    MainThread:1365820 [wandb_setup.py:_flush():77] Loading settings from /usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/wandb/settings
+2024-10-29 21:18:04,941 INFO    MainThread:1365820 [wandb_setup.py:_flush():77] Loading settings from environment variables: {'api_key': '***REDACTED***'}
+2024-10-29 21:18:04,942 INFO    MainThread:1365820 [wandb_setup.py:_flush():77] Applying setup settings: {'_disable_service': False}
+2024-10-29 21:18:04,944 INFO    MainThread:1365820 [wandb_setup.py:_flush():77] Inferring run settings from compute environment: {'program_relpath': 'dummyData.py', 'program_abspath': '/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/dummyData.py', 'program': '/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/dummyData.py'}
+2024-10-29 21:18:04,945 INFO    MainThread:1365820 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-10-29 21:18:04,947 INFO    MainThread:1365820 [wandb_init.py:_log_setup():525] Logging user logs to /usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/wandb/run-20241029_211804-ge7ambpa/logs/debug.log
+2024-10-29 21:18:04,951 INFO    MainThread:1365820 [wandb_init.py:_log_setup():526] Logging internal logs to /usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/wandb/run-20241029_211804-ge7ambpa/logs/debug-internal.log
+2024-10-29 21:18:04,952 INFO    MainThread:1365820 [wandb_init.py:init():609] calling init triggers
+2024-10-29 21:18:04,954 INFO    MainThread:1365820 [wandb_init.py:init():616] wandb.init called with sweep_config: {}
+config: {'learning_rate': [0.0003, 3e-05], 'lossType': 'wgan', 'loassParams': {'learningRate_gen': 0.0003, 'learningRate_dis': 3e-05, 'type': 'wgan', 'weights': {'discriminatorWeight': 1.0, 'descrimFakeWeight': 1.0, 'descrimTrueWeight': 1.0, 'classificationWeight': 1.0, 'generatorWeight': 1.0, 'gradWeight': 1.0, 'modificationWeight': 1.0}}, 'batchSize': 80, 'architecture': 'networkLabel', 'dataset_id': 'SynthSins', 'optimType': 'adam', 'randSeed': 7777, 'genIter_perEp': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'discrimIter_perEp': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'classificationIter_perEp': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'modPenalties': {'method': ['l1', 'l1_dt'], 'weights': [0.0, 1e-05]}}
+2024-10-29 21:18:04,956 INFO    MainThread:1365820 [wandb_init.py:init():659] starting backend
+2024-10-29 21:18:04,958 INFO    MainThread:1365820 [wandb_init.py:init():663] setting up manager
+2024-10-29 21:18:04,967 INFO    MainThread:1365820 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-29 21:18:04,971 INFO    MainThread:1365820 [wandb_init.py:init():671] backend started and connected
+2024-10-29 21:18:04,985 INFO    MainThread:1365820 [wandb_init.py:init():766] updated telemetry
+2024-10-29 21:18:04,986 INFO    MainThread:1365820 [wandb_init.py:init():799] communicating run to backend with 90.0 second timeout
+2024-10-29 21:18:05,234 INFO    MainThread:1365820 [wandb_init.py:init():850] starting run threads in backend
+2024-10-29 21:18:05,526 INFO    MainThread:1365820 [wandb_run.py:_console_start():2466] atexit reg
+2024-10-29 21:18:05,527 INFO    MainThread:1365820 [wandb_run.py:_redirect():2312] redirect: wrap_raw
+2024-10-29 21:18:05,528 INFO    MainThread:1365820 [wandb_run.py:_redirect():2377] Wrapping output streams.
+2024-10-29 21:18:05,528 INFO    MainThread:1365820 [wandb_run.py:_redirect():2402] Redirects installed.
+2024-10-29 21:18:05,537 INFO    MainThread:1365820 [wandb_init.py:init():893] run started, returning control to user process
+2024-10-29 21:27:24,753 WARNING MsgRouterThr:1365820 [router.py:message_loop():77] message_loop has been closed

@@ -1,0 +1,21 @@
+{"time":"2024-10-31T15:44:01.441088879-06:00","level":"INFO","msg":"using version","core version":"0.18.0"}
+{"time":"2024-10-31T15:44:01.44112907-06:00","level":"INFO","msg":"created symlink","path":"/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/wandb/run-20241031_154401-8s7c5avf/logs/debug-core.log"}
+{"time":"2024-10-31T15:44:01.443024662-06:00","level":"INFO","msg":"using version","core version":"0.18.0"}
+{"time":"2024-10-31T15:44:01.443068989-06:00","level":"INFO","msg":"created symlink","path":"/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/wandb/run-20241031_154401-8s7c5avf/logs/debug-core.log"}
+{"time":"2024-10-31T15:44:01.450074358-06:00","level":"INFO","msg":"created new stream","id":"8s7c5avf"}
+{"time":"2024-10-31T15:44:01.450134089-06:00","level":"INFO","msg":"stream: started","id":"8s7c5avf"}
+{"time":"2024-10-31T15:44:01.450149702-06:00","level":"INFO","msg":"handler: started","stream_id":{"value":"8s7c5avf"}}
+{"time":"2024-10-31T15:44:01.450158005-06:00","level":"INFO","msg":"sender: started","stream_id":{"value":"8s7c5avf"}}
+{"time":"2024-10-31T15:44:01.450144965-06:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"8s7c5avf"}}
+{"time":"2024-10-31T15:44:01.716301611-06:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-31T15:44:01.722125296-06:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-31T16:03:22.412238695-06:00","level":"INFO","msg":"stream: closing","id":"8s7c5avf"}
+{"time":"2024-10-31T16:03:22.412394299-06:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-31T16:03:22.432469281-06:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-31T16:03:22.546671606-06:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-10-31T16:03:22.546783254-06:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-10-31T16:03:22.548271569-06:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-10-31T16:03:23.124953228-06:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"8s7c5avf"}}
+{"time":"2024-10-31T16:03:23.12504113-06:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"8s7c5avf"}}
+{"time":"2024-10-31T16:03:23.125156895-06:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"8s7c5avf"}}
+{"time":"2024-10-31T16:03:23.127181519-06:00","level":"INFO","msg":"stream: closed","id":"8s7c5avf"}

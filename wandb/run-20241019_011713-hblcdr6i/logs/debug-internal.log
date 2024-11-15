@@ -1,0 +1,21 @@
+{"time":"2024-10-19T01:17:14.059886092-06:00","level":"INFO","msg":"using version","core version":"0.18.0"}
+{"time":"2024-10-19T01:17:14.059915997-06:00","level":"INFO","msg":"created symlink","path":"/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/wandb/run-20241019_011713-hblcdr6i/logs/debug-core.log"}
+{"time":"2024-10-19T01:17:14.061892602-06:00","level":"INFO","msg":"using version","core version":"0.18.0"}
+{"time":"2024-10-19T01:17:14.061918561-06:00","level":"INFO","msg":"created symlink","path":"/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/wandb/run-20241019_011713-hblcdr6i/logs/debug-core.log"}
+{"time":"2024-10-19T01:17:14.069593057-06:00","level":"INFO","msg":"created new stream","id":"hblcdr6i"}
+{"time":"2024-10-19T01:17:14.069672077-06:00","level":"INFO","msg":"stream: started","id":"hblcdr6i"}
+{"time":"2024-10-19T01:17:14.069784797-06:00","level":"INFO","msg":"handler: started","stream_id":{"value":"hblcdr6i"}}
+{"time":"2024-10-19T01:17:14.069905629-06:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"hblcdr6i"}}
+{"time":"2024-10-19T01:17:14.069937998-06:00","level":"INFO","msg":"sender: started","stream_id":{"value":"hblcdr6i"}}
+{"time":"2024-10-19T01:17:14.314522345-06:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-19T01:17:14.325249911-06:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-19T02:13:42.448767205-06:00","level":"INFO","msg":"stream: closing","id":"hblcdr6i"}
+{"time":"2024-10-19T02:13:42.448834066-06:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-19T02:13:42.451789585-06:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-19T02:13:42.55489037-06:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-10-19T02:13:42.554965423-06:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-10-19T02:13:42.555014146-06:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-10-19T02:13:43.226236631-06:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"hblcdr6i"}}
+{"time":"2024-10-19T02:13:43.226317082-06:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"hblcdr6i"}}
+{"time":"2024-10-19T02:13:43.226332556-06:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"hblcdr6i"}}
+{"time":"2024-10-19T02:13:43.228387716-06:00","level":"INFO","msg":"stream: closed","id":"hblcdr6i"}

@@ -1,0 +1,8 @@
+Starting Training
+Traceback (most recent call last):
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/kclExplainability.py", line 219, in <module>
+    T.trainExplainabilityNetworks(discriminator=discriminator,
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/training.py", line 131, in trainExplainabilityNetworks
+    datetime = str(datetime.datetime.now()).replace(' ','_').replace(':','-').replace('.','-')
+                   ^^^^^^^^
+UnboundLocalError: cannot access local variable 'datetime' where it is not associated with a value

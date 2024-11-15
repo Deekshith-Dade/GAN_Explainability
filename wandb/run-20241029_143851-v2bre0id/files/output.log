@@ -1,0 +1,3143 @@
+Starting Training
+Explainibility training started
+Begin epoch 0
+Batch 0 of 3125
+Discriminator Step 1 of 1
+/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/autograd/graph.py:769: UserWarning: Attempting to run cuBLAS, but there was no current CUDA context! Attempting to set the primary context... (Triggered internally at ../aten/src/ATen/cuda/CublasHandlePool.cpp:135.)
+  return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+Generator step 2 of 2
+Batch 1 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 2 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 3 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 4 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 5 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 6 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 7 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 8 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 9 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 10 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 11 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 12 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 13 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 14 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 15 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 16 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 17 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 18 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 19 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 20 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 21 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 22 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 23 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 24 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 25 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 26 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 27 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 28 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 29 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 30 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 31 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 32 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 33 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 34 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 35 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 36 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 37 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 38 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 39 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 40 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 41 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 42 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 43 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 44 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 45 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 46 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 47 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 48 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 49 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 50 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 51 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 52 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 53 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 54 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 55 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 56 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 57 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 58 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 59 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 60 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 61 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 62 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 63 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 64 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 65 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 66 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 67 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 68 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 69 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 70 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 71 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 72 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 73 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 74 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 75 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 76 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 77 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 78 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 79 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 80 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 81 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 82 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 83 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 84 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 85 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 86 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 87 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 88 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 89 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 90 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 91 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 92 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 93 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 94 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 95 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 96 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 97 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 98 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 99 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 100 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 101 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 102 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 103 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 104 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 105 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 106 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 107 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 108 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 109 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 110 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 111 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 112 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 113 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 114 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 115 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 116 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 117 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 118 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 119 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 120 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 121 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 122 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 123 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 124 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 125 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 126 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 127 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 128 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 129 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 130 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 131 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 132 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 133 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 134 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 135 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 136 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 137 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 138 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 139 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 140 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 141 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 142 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 143 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 144 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 145 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 146 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 147 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 148 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 149 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 150 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 151 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 152 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 153 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 154 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 155 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 156 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 157 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 158 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 159 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 160 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 161 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 162 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 163 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 164 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 165 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 166 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 167 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 168 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 169 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 170 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 171 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 172 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 173 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 174 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 175 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 176 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 177 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 178 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 179 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 180 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 181 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 182 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 183 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 184 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 185 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 186 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 187 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 188 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 189 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 190 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 191 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 192 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 193 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 194 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 195 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 196 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 197 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 198 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 199 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 200 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 201 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 202 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 203 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 204 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 205 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 206 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 207 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 208 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 209 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 210 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 211 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 212 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 213 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 214 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 215 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 216 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 217 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 218 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 219 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 220 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 221 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 222 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 223 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 224 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 225 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 226 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 227 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 228 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 229 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 230 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 231 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 232 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 233 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 234 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 235 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 236 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 237 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 238 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 239 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 240 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 241 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 242 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 243 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 244 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 245 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 246 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 247 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 248 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 249 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 250 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 251 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 252 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 253 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 254 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 255 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 256 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 257 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 258 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 259 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 260 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 261 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 262 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 263 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 264 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 265 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 266 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 267 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 268 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 269 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 270 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 271 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 272 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 273 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 274 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 275 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 276 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 277 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 278 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 279 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 280 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 281 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 282 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 283 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 284 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 285 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 286 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 287 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 288 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 289 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 290 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 291 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 292 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 293 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 294 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 295 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 296 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 297 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 298 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 299 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 300 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 301 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 302 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 303 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 304 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 305 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 306 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 307 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 308 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 309 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 310 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 311 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 312 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 313 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 314 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 315 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 316 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 317 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 318 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 319 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 320 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 321 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 322 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 323 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 324 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 325 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 326 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 327 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 328 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 329 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 330 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 331 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 332 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 333 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 334 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 335 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 336 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 337 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 338 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 339 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 340 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 341 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 342 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 343 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 344 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 345 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 346 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 347 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 348 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 349 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 350 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 351 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 352 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 353 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 354 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 355 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 356 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 357 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 358 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 359 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 360 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 361 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 362 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 363 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 364 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 365 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 366 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 367 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 368 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 369 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 370 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 371 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 372 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 373 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 374 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 375 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 376 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 377 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 378 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 379 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 380 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 381 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 382 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 383 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 384 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 385 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 386 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 387 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 388 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 389 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 390 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 391 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 392 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 393 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 394 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 395 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 396 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 397 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 398 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 399 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 400 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 401 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 402 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 403 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 404 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 405 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 406 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 407 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 408 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 409 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 410 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 411 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 412 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 413 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 414 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 415 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 416 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 417 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 418 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 419 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 420 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 421 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 422 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 423 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 424 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 425 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 426 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 427 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 428 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 429 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 430 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 431 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 432 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 433 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 434 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 435 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 436 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 437 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 438 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 439 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 440 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 441 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 442 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 443 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 444 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 445 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 446 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 447 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 448 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 449 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 450 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 451 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 452 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 453 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 454 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 455 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 456 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 457 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 458 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 459 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 460 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 461 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 462 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 463 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 464 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 465 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 466 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 467 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 468 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 469 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 470 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 471 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 472 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 473 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 474 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 475 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 476 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 477 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 478 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 479 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 480 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 481 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 482 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 483 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 484 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 485 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 486 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 487 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 488 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 489 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 490 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 491 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 492 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 493 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 494 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 495 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 496 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 497 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 498 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 499 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 500 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 501 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 502 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 503 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 504 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 505 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 506 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 507 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 508 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 509 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 510 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 511 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 512 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 513 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 514 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 515 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 516 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 517 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 518 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 519 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 520 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 521 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 522 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 523 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 524 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 525 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 526 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 527 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 528 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 529 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 530 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 531 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 532 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 533 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 534 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 535 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 536 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 537 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 538 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 539 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 540 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 541 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 542 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 543 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 544 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 545 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 546 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 547 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 548 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 549 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 550 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 551 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 552 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 553 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 554 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 555 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 556 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 557 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 558 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 559 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 560 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 561 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 562 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 563 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 564 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 565 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 566 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 567 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 568 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 569 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 570 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 571 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 572 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 573 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 574 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 575 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 576 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 577 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 578 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 579 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 580 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 581 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 582 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 583 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 584 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 585 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 586 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 587 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 588 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 589 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 590 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 591 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 592 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 593 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 594 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 595 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 596 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 597 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 598 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 599 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 600 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 601 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 602 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 603 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 604 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 605 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 606 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 607 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 608 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 609 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 610 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 611 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 612 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 613 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 614 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 615 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 616 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 617 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 618 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 619 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 620 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 621 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 622 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 623 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 624 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 625 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 626 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 627 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 628 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 629 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 630 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 631 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 632 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 633 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 634 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 635 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 636 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 637 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 638 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 639 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 640 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 641 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 642 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 643 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 644 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 645 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 646 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 647 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 648 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 649 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 650 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 651 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 652 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 653 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 654 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 655 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 656 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 657 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 658 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 659 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 660 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 661 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 662 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 663 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 664 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 665 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 666 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 667 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 668 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 669 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 670 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 671 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 672 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 673 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 674 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 675 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 676 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 677 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 678 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 679 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 680 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 681 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 682 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 683 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 684 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 685 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 686 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 687 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 688 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 689 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 690 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 691 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 692 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 693 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 694 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 695 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 696 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 697 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 698 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 699 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 700 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 701 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 702 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 703 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 704 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 705 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 706 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 707 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 708 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 709 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 710 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 711 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 712 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 713 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 714 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 715 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 716 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 717 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 718 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 719 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 720 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 721 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 722 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 723 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 724 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 725 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 726 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 727 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 728 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 729 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 730 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 731 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 732 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 733 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 734 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 735 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 736 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 737 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 738 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 739 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 740 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 741 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 742 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 743 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 744 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 745 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 746 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 747 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 748 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 749 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 750 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 751 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 752 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 753 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 754 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 755 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 756 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 757 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 758 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 759 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 760 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 761 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 762 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 763 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 764 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 765 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 766 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 767 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 768 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 769 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 770 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 771 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 772 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 773 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 774 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 775 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 776 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 777 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 778 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 779 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 780 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 781 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 782 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 783 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 784 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 785 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 786 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 787 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 788 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 789 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 790 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 791 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 792 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 793 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 794 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 795 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 796 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 797 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 798 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 799 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 800 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 801 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 802 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 803 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 804 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 805 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 806 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 807 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 808 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 809 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 810 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 811 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 812 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 813 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 814 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 815 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 816 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 817 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 818 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 819 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 820 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 821 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 822 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 823 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 824 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 825 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 826 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 827 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 828 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 829 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 830 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 831 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 832 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 833 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 834 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 835 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 836 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 837 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 838 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 839 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 840 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 841 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 842 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 843 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 844 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 845 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 846 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 847 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 848 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 849 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 850 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 851 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 852 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 853 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 854 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 855 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 856 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 857 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 858 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 859 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 860 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 861 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 862 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 863 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 864 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 865 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 866 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 867 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 868 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 869 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 870 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 871 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 872 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 873 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 874 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 875 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 876 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 877 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 878 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 879 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 880 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 881 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 882 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 883 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 884 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 885 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 886 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 887 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 888 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 889 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 890 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 891 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 892 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 893 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 894 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 895 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 896 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 897 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 898 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 899 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 900 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 901 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 902 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 903 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 904 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 905 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 906 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 907 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 908 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 909 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 910 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 911 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 912 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 913 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 914 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 915 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 916 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 917 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 918 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 919 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 920 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 921 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 922 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 923 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 924 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 925 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 926 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 927 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 928 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 929 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 930 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 931 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 932 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 933 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 934 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 935 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 936 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 937 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 938 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 939 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 940 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 941 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 942 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 943 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 944 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 945 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 946 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 947 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 948 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 949 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 950 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 951 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 952 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 953 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 954 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 955 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 956 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 957 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 958 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 959 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 960 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 961 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 962 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 963 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 964 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 965 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 966 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 967 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 968 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 969 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 970 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 971 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 972 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 973 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 974 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 975 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 976 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 977 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 978 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 979 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 980 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 981 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 982 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 983 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 984 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 985 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 986 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 987 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 988 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 989 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 990 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 991 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 992 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 993 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 994 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 995 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 996 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 997 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 998 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 999 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1000 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1001 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1002 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1003 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1004 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1005 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1006 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1007 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1008 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1009 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1010 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1011 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1012 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1013 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1014 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1015 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1016 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1017 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1018 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1019 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1020 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1021 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1022 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1023 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1024 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1025 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1026 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1027 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1028 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1029 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1030 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1031 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1032 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1033 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1034 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1035 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1036 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1037 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1038 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1039 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1040 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Batch 1041 of 3125
+Discriminator Step 1 of 1
+Generator step 2 of 2
+Traceback (most recent call last):
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/dummyData.py", line 150, in <module>
+    T.trainExplainabilityNetworks(discriminator=discriminator,
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/training.py", line 177, in trainExplainabilityNetworks
+    abnormal_data, flag = next(abnormal_data_iter)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 630, in __next__
+    data = self._next_data()
+           ^^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 1317, in _next_data
+    raise StopIteration
+StopIteration

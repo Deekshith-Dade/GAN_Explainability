@@ -1,0 +1,2408 @@
+Starting Training
+Explainibility training started
+Begin epoch 0
+Batch 0 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 55 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 56 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 57 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 58 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 59 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 60 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 61 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 62 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 63 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 64 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 65 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 66 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 67 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 68 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 69 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 70 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 71 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 72 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 73 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 74 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 75 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 76 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 77 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 78 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 79 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 80 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 81 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 82 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 83 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 84 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 85 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 86 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 87 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 88 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 89 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 90 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 91 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 92 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 93 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 94 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 95 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 96 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 97 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 98 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 99 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 100 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 101 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 102 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 103 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 104 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 105 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 106 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 107 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 108 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 109 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 110 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 111 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 112 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 113 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 114 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 115 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 116 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 117 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 118 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 119 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 120 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 121 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 122 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 123 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 124 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 125 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 126 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 127 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 128 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 129 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 130 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 131 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 132 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 133 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 134 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 135 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 136 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 137 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 138 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 139 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 140 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 141 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 142 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 143 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 144 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 145 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 146 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 147 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 148 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 149 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 150 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 151 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 152 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 153 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 154 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 155 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 156 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 157 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 158 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 159 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 160 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 161 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 162 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 163 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 164 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 165 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 166 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 167 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 168 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 169 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 170 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 171 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 172 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 173 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 174 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 175 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 176 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 177 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 178 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 179 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 180 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 181 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 182 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 183 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 184 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 185 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 186 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 187 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 188 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 189 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 190 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 191 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 192 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 193 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 194 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 195 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 196 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 197 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 198 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 199 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 200 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 201 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 202 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 203 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 204 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 205 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 206 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 207 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 208 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 209 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 210 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 211 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 212 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 213 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 214 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 215 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 216 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 217 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 218 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 219 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 220 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 221 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 222 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 223 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 224 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 225 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 226 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 227 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 228 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 229 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 230 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 231 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 232 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 233 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 234 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 235 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 236 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 237 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 238 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 239 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 240 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 241 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 242 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 243 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 244 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 245 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 246 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 247 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 248 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 249 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 250 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 251 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 252 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 253 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 254 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 255 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 256 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 257 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 258 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 259 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 260 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 261 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 262 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 263 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 264 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 265 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 266 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 267 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 268 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 269 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 270 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 271 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 272 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 273 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 274 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 275 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 276 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 277 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 278 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 279 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 280 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 281 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 282 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 283 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 284 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 285 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 286 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 287 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 288 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 289 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 290 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 291 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 292 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 293 of 294 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 0, average train loss: wgan: 0.0036297,diff: 0.0036297
+Ep: 0, average train loss: gen : -0.0003436,diff: -0.0003436
+Evaluating performance
+ atch 0 of 2
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 2
+/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/training.py:118: UserWarning: Tight layout not applied. tight_layout cannot make Axes height small enough to accommodate all Axes decorations.
+  plt.tight_layout()
+Logging to wandb
+Begin epoch 1
+Batch 0 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 55 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 56 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 57 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 58 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 59 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 60 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 61 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 62 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 63 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 64 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 65 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 66 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 67 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 68 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 69 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 70 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 71 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 72 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 73 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 74 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 75 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 76 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 77 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 78 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 79 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 80 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 81 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 82 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 83 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 84 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 85 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 86 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 87 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 88 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 89 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 90 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 91 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 92 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 93 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 94 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 95 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 96 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 97 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 98 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 99 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 100 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 101 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 102 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 103 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 104 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 105 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 106 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 107 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 108 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 109 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 110 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 111 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 112 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 113 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 114 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 115 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 116 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 117 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 118 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 119 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 120 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 121 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 122 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 123 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 124 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 125 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 126 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 127 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 128 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 129 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 130 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 131 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 132 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 133 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 134 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 135 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 136 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 137 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 138 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 139 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 140 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 141 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 142 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 143 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 144 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 145 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 146 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 147 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 148 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 149 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 150 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 151 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 152 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 153 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 154 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 155 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 156 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 157 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 158 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 159 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 160 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 161 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 162 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 163 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 164 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 165 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 166 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 167 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 168 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 169 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 170 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 171 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 172 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 173 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 174 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 175 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 176 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 177 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 178 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 179 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 180 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 181 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 182 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 183 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 184 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 185 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 186 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 187 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 188 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 189 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 190 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 191 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 192 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 193 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 194 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 195 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 196 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 197 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 198 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 199 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 200 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 201 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 202 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 203 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 204 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 205 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 206 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 207 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 208 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 209 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 210 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 211 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 212 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 213 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 214 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 215 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 216 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 217 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 218 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 219 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 220 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 221 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 222 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 223 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 224 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 225 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 226 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 227 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 228 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 229 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 230 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 231 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 232 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 233 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 234 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 235 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 236 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 237 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 238 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 239 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 240 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 241 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 242 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 243 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 244 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 245 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 246 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 247 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 248 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 249 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 250 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 251 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 252 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 253 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 254 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 255 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 256 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 257 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 258 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 259 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 260 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 261 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 262 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 263 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 264 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 265 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 266 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 267 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 268 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 269 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 270 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 271 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 272 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 273 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 274 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 275 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 276 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 277 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 278 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 279 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 280 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 281 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 282 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 283 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 284 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 285 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 286 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 287 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 288 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 289 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 290 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 291 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 292 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 293 of 294 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 1, average train loss: wgan: 0.0038967,diff: 0.0002670
+Ep: 1, average train loss: gen : -0.0003322,diff: 0.0000114
+Evaluating performance
+ atch 0 of 2
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 2
+/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/training.py:118: UserWarning:
+
+Tight layout not applied. tight_layout cannot make Axes height small enough to accommodate all Axes decorations.
+Logging to wandb
+Begin epoch 2
+Batch 0 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 55 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 56 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 57 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 58 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 59 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 60 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 61 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 62 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 63 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 64 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 65 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 66 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 67 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 68 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 69 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 70 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 71 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 72 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 73 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 74 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 75 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 76 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 77 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 78 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 79 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 80 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 81 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 82 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 83 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 84 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 85 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 86 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 87 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 88 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 89 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 90 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 91 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 92 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 93 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 94 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 95 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 96 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 97 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 98 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 99 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 100 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 101 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 102 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 103 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 104 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 105 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 106 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 107 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 108 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 109 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 110 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 111 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 112 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 113 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 114 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 115 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 116 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 117 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 118 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 119 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 120 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 121 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 122 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 123 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 124 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 125 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 126 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 127 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 128 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 129 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 130 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 131 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 132 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 133 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 134 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 135 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 136 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 137 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 138 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 139 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 140 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 141 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 142 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 143 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 144 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 145 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 146 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 147 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 148 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 149 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 150 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 151 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 152 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 153 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 154 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 155 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 156 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 157 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 158 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 159 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 160 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 161 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 162 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 163 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 164 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 165 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 166 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 167 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 168 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 169 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 170 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 171 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 172 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 173 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 174 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 175 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 176 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 177 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 178 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 179 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 180 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 181 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 182 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 183 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 184 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 185 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 186 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 187 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 188 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 189 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 190 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 191 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 192 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 193 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 194 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 195 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 196 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 197 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 198 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 199 of 294 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 200 of 294 of epoch 2
+Discriminator Step 1 of 1
+
+Traceback (most recent call last):
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/kclExplainability.py", line 219, in <module>
+    T.trainExplainabilityNetworks(discriminator=discriminator,
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/training.py", line 182, in trainExplainabilityNetworks
+    wganLoss.backward()
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/_tensor.py", line 521, in backward
+    torch.autograd.backward(
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/autograd/__init__.py", line 289, in backward
+    _engine_run_backward(
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/autograd/graph.py", line 769, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

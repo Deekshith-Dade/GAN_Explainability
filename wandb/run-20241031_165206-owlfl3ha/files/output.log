@@ -1,0 +1,6107 @@
+Starting Training
+Explainibility training started
+Begin epoch 0
+Batch 0 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 55 of epoch 0
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 0, average train loss: wgan: 0.0029044,diff: 0.0029044
+Ep: 0, average train loss: gen : -0.0000117,diff: -0.0000117
+Evaluating performance
+ atch 0 of 26
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 26
+Looking for example data
+
+ atch 2 of 26
+Looking for example data
+
+ atch 3 of 26
+Looking for example data
+
+ atch 4 of 26
+Looking for example data
+
+ atch 5 of 26
+Looking for example data
+
+ atch 6 of 26
+Looking for example data
+
+ atch 7 of 26
+Looking for example data
+
+ atch 8 of 26
+Looking for example data
+
+ atch 9 of 26
+Looking for example data
+
+ atch 10 of 26
+Looking for example data
+
+ atch 11 of 26
+Looking for example data
+
+ atch 12 of 26
+Looking for example data
+
+ atch 13 of 26
+Looking for example data
+
+ atch 14 of 26
+Looking for example data
+
+ atch 15 of 26
+Looking for example data
+
+ atch 16 of 26
+Looking for example data
+
+ atch 17 of 26
+Looking for example data
+
+ atch 18 of 26
+Looking for example data
+
+ atch 19 of 26
+Looking for example data
+
+ atch 20 of 26
+Looking for example data
+
+ atch 21 of 26
+Looking for example data
+
+ atch 22 of 26
+Looking for example data
+
+ atch 23 of 26
+Looking for example data
+
+
+/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/training.py:106: UserWarning: Tight layout not applied. tight_layout cannot make Axes height small enough to accommodate all Axes decorations.
+  plt.tight_layout()
+Logging to wandb
+Begin epoch 1
+Batch 0 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 55 of epoch 1
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 1, average train loss: wgan: 0.0031967,diff: 0.0002923
+Ep: 1, average train loss: gen : 0.0000017,diff: 0.0000135
+Evaluating performance
+ atch 0 of 26
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 26
+Looking for example data
+
+ atch 2 of 26
+Looking for example data
+
+ atch 3 of 26
+Looking for example data
+
+ atch 4 of 26
+Looking for example data
+
+ atch 5 of 26
+Looking for example data
+
+ atch 6 of 26
+Looking for example data
+
+ atch 7 of 26
+Looking for example data
+
+ atch 8 of 26
+Looking for example data
+
+ atch 9 of 26
+Looking for example data
+
+ atch 10 of 26
+Looking for example data
+
+ atch 11 of 26
+Looking for example data
+
+ atch 12 of 26
+Looking for example data
+
+ atch 13 of 26
+Looking for example data
+
+ atch 14 of 26
+Looking for example data
+
+ atch 15 of 26
+Looking for example data
+
+ atch 16 of 26
+Looking for example data
+
+ atch 17 of 26
+Looking for example data
+
+ atch 18 of 26
+Looking for example data
+
+ atch 19 of 26
+Looking for example data
+
+ atch 20 of 26
+Looking for example data
+
+ atch 21 of 26
+Looking for example data
+
+ atch 22 of 26
+Looking for example data
+
+ atch 23 of 26
+Looking for example data
+
+
+/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/training.py:106: UserWarning:
+
+Tight layout not applied. tight_layout cannot make Axes height small enough to accommodate all Axes decorations.
+Logging to wandb
+Begin epoch 2
+Batch 0 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 55 of epoch 2
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 2, average train loss: wgan: 0.0031219,diff: -0.0000748
+Ep: 2, average train loss: gen : -0.0000370,diff: -0.0000387
+Evaluating performance
+ atch 0 of 26
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 26
+Looking for example data
+
+ atch 2 of 26
+Looking for example data
+
+ atch 3 of 26
+Looking for example data
+
+ atch 4 of 26
+Looking for example data
+
+ atch 5 of 26
+Looking for example data
+
+ atch 6 of 26
+Looking for example data
+
+ atch 7 of 26
+Looking for example data
+
+ atch 8 of 26
+Looking for example data
+
+ atch 9 of 26
+Looking for example data
+
+ atch 10 of 26
+Looking for example data
+
+ atch 11 of 26
+Looking for example data
+
+ atch 12 of 26
+Looking for example data
+
+ atch 13 of 26
+Looking for example data
+
+ atch 14 of 26
+Looking for example data
+
+ atch 15 of 26
+Looking for example data
+
+ atch 16 of 26
+Looking for example data
+
+ atch 17 of 26
+Looking for example data
+
+ atch 18 of 26
+Looking for example data
+
+ atch 19 of 26
+Looking for example data
+
+ atch 20 of 26
+Looking for example data
+
+ atch 21 of 26
+Looking for example data
+
+ atch 22 of 26
+Looking for example data
+
+ atch 23 of 26
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 3
+Batch 0 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 55 of epoch 3
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 3, average train loss: wgan: 0.0031051,diff: -0.0000168
+Ep: 3, average train loss: gen : -0.0000005,diff: 0.0000365
+Evaluating performance
+ atch 0 of 26
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 26
+Looking for example data
+
+ atch 2 of 26
+Looking for example data
+
+ atch 3 of 26
+Looking for example data
+
+ atch 4 of 26
+Looking for example data
+
+ atch 5 of 26
+Looking for example data
+
+ atch 6 of 26
+Looking for example data
+
+ atch 7 of 26
+Looking for example data
+
+ atch 8 of 26
+Looking for example data
+
+ atch 9 of 26
+Looking for example data
+
+ atch 10 of 26
+Looking for example data
+
+ atch 11 of 26
+Looking for example data
+
+ atch 12 of 26
+Looking for example data
+
+ atch 13 of 26
+Looking for example data
+
+ atch 14 of 26
+Looking for example data
+
+ atch 15 of 26
+Looking for example data
+
+ atch 16 of 26
+Looking for example data
+
+ atch 17 of 26
+Looking for example data
+
+ atch 18 of 26
+Looking for example data
+
+ atch 19 of 26
+Looking for example data
+
+ atch 20 of 26
+Looking for example data
+
+ atch 21 of 26
+Looking for example data
+
+ atch 22 of 26
+Looking for example data
+
+ atch 23 of 26
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 4
+Batch 0 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 55 of epoch 4
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 4, average train loss: wgan: 0.0031014,diff: -0.0000036
+Ep: 4, average train loss: gen : 0.0000009,diff: 0.0000014
+Evaluating performance
+ atch 0 of 26
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 26
+Looking for example data
+
+ atch 2 of 26
+Looking for example data
+
+ atch 3 of 26
+Looking for example data
+
+ atch 4 of 26
+Looking for example data
+
+ atch 5 of 26
+Looking for example data
+
+ atch 6 of 26
+Looking for example data
+
+ atch 7 of 26
+Looking for example data
+
+ atch 8 of 26
+Looking for example data
+
+ atch 9 of 26
+Looking for example data
+
+ atch 10 of 26
+Looking for example data
+
+ atch 11 of 26
+Looking for example data
+
+ atch 12 of 26
+Looking for example data
+
+ atch 13 of 26
+Looking for example data
+
+ atch 14 of 26
+Looking for example data
+
+ atch 15 of 26
+Looking for example data
+
+ atch 16 of 26
+Looking for example data
+
+ atch 17 of 26
+Looking for example data
+
+ atch 18 of 26
+Looking for example data
+
+ atch 19 of 26
+Looking for example data
+
+ atch 20 of 26
+Looking for example data
+
+ atch 21 of 26
+Looking for example data
+
+ atch 22 of 26
+Looking for example data
+
+ atch 23 of 26
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 5
+Batch 0 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 55 of epoch 5
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 5, average train loss: wgan: 0.0031029,diff: 0.0000014
+Ep: 5, average train loss: gen : -0.0000114,diff: -0.0000122
+Evaluating performance
+ atch 0 of 26
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 26
+Looking for example data
+
+ atch 2 of 26
+Looking for example data
+
+ atch 3 of 26
+Looking for example data
+
+ atch 4 of 26
+Looking for example data
+
+ atch 5 of 26
+Looking for example data
+
+ atch 6 of 26
+Looking for example data
+
+ atch 7 of 26
+Looking for example data
+
+ atch 8 of 26
+Looking for example data
+
+ atch 9 of 26
+Looking for example data
+
+ atch 10 of 26
+Looking for example data
+
+ atch 11 of 26
+Looking for example data
+
+ atch 12 of 26
+Looking for example data
+
+ atch 13 of 26
+Looking for example data
+
+ atch 14 of 26
+Looking for example data
+
+ atch 15 of 26
+Looking for example data
+
+ atch 16 of 26
+Looking for example data
+
+ atch 17 of 26
+Looking for example data
+
+ atch 18 of 26
+Looking for example data
+
+ atch 19 of 26
+Looking for example data
+
+ atch 20 of 26
+Looking for example data
+
+ atch 21 of 26
+Looking for example data
+
+ atch 22 of 26
+Looking for example data
+
+ atch 23 of 26
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 6
+Batch 0 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 55 of epoch 6
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 6, average train loss: wgan: 0.0030965,diff: -0.0000064
+Ep: 6, average train loss: gen : -0.0000085,diff: 0.0000028
+Evaluating performance
+ atch 0 of 26
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 26
+Looking for example data
+
+ atch 2 of 26
+Looking for example data
+
+ atch 3 of 26
+Looking for example data
+
+ atch 4 of 26
+Looking for example data
+
+ atch 5 of 26
+Looking for example data
+
+ atch 6 of 26
+Looking for example data
+
+ atch 7 of 26
+Looking for example data
+
+ atch 8 of 26
+Looking for example data
+
+ atch 9 of 26
+Looking for example data
+
+ atch 10 of 26
+Looking for example data
+
+ atch 11 of 26
+Looking for example data
+
+ atch 12 of 26
+Looking for example data
+
+ atch 13 of 26
+Looking for example data
+
+ atch 14 of 26
+Looking for example data
+
+ atch 15 of 26
+Looking for example data
+
+ atch 16 of 26
+Looking for example data
+
+ atch 17 of 26
+Looking for example data
+
+ atch 18 of 26
+Looking for example data
+
+ atch 19 of 26
+Looking for example data
+
+ atch 20 of 26
+Looking for example data
+
+ atch 21 of 26
+Looking for example data
+
+ atch 22 of 26
+Looking for example data
+
+ atch 23 of 26
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 7
+Batch 0 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 55 of epoch 7
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 7, average train loss: wgan: 0.0030907,diff: -0.0000057
+Ep: 7, average train loss: gen : -0.0000138,diff: -0.0000053
+Evaluating performance
+ atch 0 of 26
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 26
+Looking for example data
+
+ atch 2 of 26
+Looking for example data
+
+ atch 3 of 26
+Looking for example data
+
+ atch 4 of 26
+Looking for example data
+
+ atch 5 of 26
+Looking for example data
+
+ atch 6 of 26
+Looking for example data
+
+ atch 7 of 26
+Looking for example data
+
+ atch 8 of 26
+Looking for example data
+
+ atch 9 of 26
+Looking for example data
+
+ atch 10 of 26
+Looking for example data
+
+ atch 11 of 26
+Looking for example data
+
+ atch 12 of 26
+Looking for example data
+
+ atch 13 of 26
+Looking for example data
+
+ atch 14 of 26
+Looking for example data
+
+ atch 15 of 26
+Looking for example data
+
+ atch 16 of 26
+Looking for example data
+
+ atch 17 of 26
+Looking for example data
+
+ atch 18 of 26
+Looking for example data
+
+ atch 19 of 26
+Looking for example data
+
+ atch 20 of 26
+Looking for example data
+
+ atch 21 of 26
+Looking for example data
+
+ atch 22 of 26
+Looking for example data
+
+ atch 23 of 26
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 8
+Batch 0 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 55 of epoch 8
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 8, average train loss: wgan: 0.0030883,diff: -0.0000024
+Ep: 8, average train loss: gen : -0.0000185,diff: -0.0000047
+Evaluating performance
+ atch 0 of 26
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 26
+Looking for example data
+
+ atch 2 of 26
+Looking for example data
+
+ atch 3 of 26
+Looking for example data
+
+ atch 4 of 26
+Looking for example data
+
+ atch 5 of 26
+Looking for example data
+
+ atch 6 of 26
+Looking for example data
+
+ atch 7 of 26
+Looking for example data
+
+ atch 8 of 26
+Looking for example data
+
+ atch 9 of 26
+Looking for example data
+
+ atch 10 of 26
+Looking for example data
+
+ atch 11 of 26
+Looking for example data
+
+ atch 12 of 26
+Looking for example data
+
+ atch 13 of 26
+Looking for example data
+
+ atch 14 of 26
+Looking for example data
+
+ atch 15 of 26
+Looking for example data
+
+ atch 16 of 26
+Looking for example data
+
+ atch 17 of 26
+Looking for example data
+
+ atch 18 of 26
+Looking for example data
+
+ atch 19 of 26
+Looking for example data
+
+ atch 20 of 26
+Looking for example data
+
+ atch 21 of 26
+Looking for example data
+
+ atch 22 of 26
+Looking for example data
+
+ atch 23 of 26
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 9
+Batch 0 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 55 of epoch 9
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 9, average train loss: wgan: 0.0030780,diff: -0.0000103
+Ep: 9, average train loss: gen : -0.0000032,diff: 0.0000153
+Evaluating performance
+ atch 0 of 26
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 26
+Looking for example data
+
+ atch 2 of 26
+Looking for example data
+
+ atch 3 of 26
+Looking for example data
+
+ atch 4 of 26
+Looking for example data
+
+ atch 5 of 26
+Looking for example data
+
+ atch 6 of 26
+Looking for example data
+
+ atch 7 of 26
+Looking for example data
+
+ atch 8 of 26
+Looking for example data
+
+ atch 9 of 26
+Looking for example data
+
+ atch 10 of 26
+Looking for example data
+
+ atch 11 of 26
+Looking for example data
+
+ atch 12 of 26
+Looking for example data
+
+ atch 13 of 26
+Looking for example data
+
+ atch 14 of 26
+Looking for example data
+
+ atch 15 of 26
+Looking for example data
+
+ atch 16 of 26
+Looking for example data
+
+ atch 17 of 26
+Looking for example data
+
+ atch 18 of 26
+Looking for example data
+
+ atch 19 of 26
+Looking for example data
+
+ atch 20 of 26
+Looking for example data
+
+ atch 21 of 26
+Looking for example data
+
+ atch 22 of 26
+Looking for example data
+
+ atch 23 of 26
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 10
+Batch 0 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 55 of epoch 10
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 10, average train loss: wgan: 0.0030748,diff: -0.0000032
+Ep: 10, average train loss: gen : -0.0000428,diff: -0.0000395
+Evaluating performance
+ atch 0 of 26
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 26
+Looking for example data
+
+ atch 2 of 26
+Looking for example data
+
+ atch 3 of 26
+Looking for example data
+
+ atch 4 of 26
+Looking for example data
+
+ atch 5 of 26
+Looking for example data
+
+ atch 6 of 26
+Looking for example data
+
+ atch 7 of 26
+Looking for example data
+
+ atch 8 of 26
+Looking for example data
+
+ atch 9 of 26
+Looking for example data
+
+ atch 10 of 26
+Looking for example data
+
+ atch 11 of 26
+Looking for example data
+
+ atch 12 of 26
+Looking for example data
+
+ atch 13 of 26
+Looking for example data
+
+ atch 14 of 26
+Looking for example data
+
+ atch 15 of 26
+Looking for example data
+
+ atch 16 of 26
+Looking for example data
+
+ atch 17 of 26
+Looking for example data
+
+ atch 18 of 26
+Looking for example data
+
+ atch 19 of 26
+Looking for example data
+
+ atch 20 of 26
+Looking for example data
+
+ atch 21 of 26
+Looking for example data
+
+ atch 22 of 26
+Looking for example data
+
+ atch 23 of 26
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 11
+Batch 0 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 55 of epoch 11
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 11, average train loss: wgan: 0.0030414,diff: -0.0000334
+Ep: 11, average train loss: gen : -0.0000309,diff: 0.0000118
+Evaluating performance
+ atch 0 of 26
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 26
+Looking for example data
+
+ atch 2 of 26
+Looking for example data
+
+ atch 3 of 26
+Looking for example data
+
+ atch 4 of 26
+Looking for example data
+
+ atch 5 of 26
+Looking for example data
+
+ atch 6 of 26
+Looking for example data
+
+ atch 7 of 26
+Looking for example data
+
+ atch 8 of 26
+Looking for example data
+
+ atch 9 of 26
+Looking for example data
+
+ atch 10 of 26
+Looking for example data
+
+ atch 11 of 26
+Looking for example data
+
+ atch 12 of 26
+Looking for example data
+
+ atch 13 of 26
+Looking for example data
+
+ atch 14 of 26
+Looking for example data
+
+ atch 15 of 26
+Looking for example data
+
+ atch 16 of 26
+Looking for example data
+
+ atch 17 of 26
+Looking for example data
+
+ atch 18 of 26
+Looking for example data
+
+ atch 19 of 26
+Looking for example data
+
+ atch 20 of 26
+Looking for example data
+
+ atch 21 of 26
+Looking for example data
+
+ atch 22 of 26
+Looking for example data
+
+ atch 23 of 26
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 12
+Batch 0 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 55 of epoch 12
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 12, average train loss: wgan: 0.0030380,diff: -0.0000033
+Ep: 12, average train loss: gen : -0.0000297,diff: 0.0000012
+Evaluating performance
+ atch 0 of 26
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 26
+Looking for example data
+
+ atch 2 of 26
+Looking for example data
+
+ atch 3 of 26
+Looking for example data
+
+ atch 4 of 26
+Looking for example data
+
+ atch 5 of 26
+Looking for example data
+
+ atch 6 of 26
+Looking for example data
+
+ atch 7 of 26
+Looking for example data
+
+ atch 8 of 26
+Looking for example data
+
+ atch 9 of 26
+Looking for example data
+
+ atch 10 of 26
+Looking for example data
+
+ atch 11 of 26
+Looking for example data
+
+ atch 12 of 26
+Looking for example data
+
+ atch 13 of 26
+Looking for example data
+
+ atch 14 of 26
+Looking for example data
+
+ atch 15 of 26
+Looking for example data
+
+ atch 16 of 26
+Looking for example data
+
+ atch 17 of 26
+Looking for example data
+
+ atch 18 of 26
+Looking for example data
+
+ atch 19 of 26
+Looking for example data
+
+ atch 20 of 26
+Looking for example data
+
+ atch 21 of 26
+Looking for example data
+
+ atch 22 of 26
+Looking for example data
+
+ atch 23 of 26
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 13
+Batch 0 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 55 of epoch 13
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 13, average train loss: wgan: 0.0029719,diff: -0.0000661
+Ep: 13, average train loss: gen : -0.0000179,diff: 0.0000119
+Evaluating performance
+ atch 0 of 26
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 26
+Looking for example data
+
+ atch 2 of 26
+Looking for example data
+
+ atch 3 of 26
+Looking for example data
+
+ atch 4 of 26
+Looking for example data
+
+ atch 5 of 26
+Looking for example data
+
+ atch 6 of 26
+Looking for example data
+
+ atch 7 of 26
+Looking for example data
+
+ atch 8 of 26
+Looking for example data
+
+ atch 9 of 26
+Looking for example data
+
+ atch 10 of 26
+Looking for example data
+
+ atch 11 of 26
+Looking for example data
+
+ atch 12 of 26
+Looking for example data
+
+ atch 13 of 26
+Looking for example data
+
+ atch 14 of 26
+Looking for example data
+
+ atch 15 of 26
+Looking for example data
+
+ atch 16 of 26
+Looking for example data
+
+ atch 17 of 26
+Looking for example data
+
+ atch 18 of 26
+Looking for example data
+
+ atch 19 of 26
+Looking for example data
+
+ atch 20 of 26
+Looking for example data
+
+ atch 21 of 26
+Looking for example data
+
+ atch 22 of 26
+Looking for example data
+
+ atch 23 of 26
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 14
+Batch 0 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 55 of epoch 14
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 14, average train loss: wgan: 0.0029287,diff: -0.0000432
+Ep: 14, average train loss: gen : -0.0000932,diff: -0.0000753
+Evaluating performance
+ atch 0 of 26
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 26
+Looking for example data
+
+ atch 2 of 26
+Looking for example data
+
+ atch 3 of 26
+Looking for example data
+
+ atch 4 of 26
+Looking for example data
+
+ atch 5 of 26
+Looking for example data
+
+ atch 6 of 26
+Looking for example data
+
+ atch 7 of 26
+Looking for example data
+
+ atch 8 of 26
+Looking for example data
+
+ atch 9 of 26
+Looking for example data
+
+ atch 10 of 26
+Looking for example data
+
+ atch 11 of 26
+Looking for example data
+
+ atch 12 of 26
+Looking for example data
+
+ atch 13 of 26
+Looking for example data
+
+ atch 14 of 26
+Looking for example data
+
+ atch 15 of 26
+Looking for example data
+
+ atch 16 of 26
+Looking for example data
+
+ atch 17 of 26
+Looking for example data
+
+ atch 18 of 26
+Looking for example data
+
+ atch 19 of 26
+Looking for example data
+
+ atch 20 of 26
+Looking for example data
+
+ atch 21 of 26
+Looking for example data
+
+ atch 22 of 26
+Looking for example data
+
+ atch 23 of 26
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 15
+Batch 0 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 55 of epoch 15
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 15, average train loss: wgan: 0.0028426,diff: -0.0000861
+Ep: 15, average train loss: gen : 0.0000125,diff: 0.0001056
+Evaluating performance
+ atch 0 of 26
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 26
+Looking for example data
+
+ atch 2 of 26
+Looking for example data
+
+ atch 3 of 26
+Looking for example data
+
+ atch 4 of 26
+Looking for example data
+
+ atch 5 of 26
+Looking for example data
+
+ atch 6 of 26
+Looking for example data
+
+ atch 7 of 26
+Looking for example data
+
+ atch 8 of 26
+Looking for example data
+
+ atch 9 of 26
+Looking for example data
+
+ atch 10 of 26
+Looking for example data
+
+ atch 11 of 26
+Looking for example data
+
+ atch 12 of 26
+Looking for example data
+
+ atch 13 of 26
+Looking for example data
+
+ atch 14 of 26
+Looking for example data
+
+ atch 15 of 26
+Looking for example data
+
+ atch 16 of 26
+Looking for example data
+
+ atch 17 of 26
+Looking for example data
+
+ atch 18 of 26
+Looking for example data
+
+ atch 19 of 26
+Looking for example data
+
+ atch 20 of 26
+Looking for example data
+
+ atch 21 of 26
+Looking for example data
+
+ atch 22 of 26
+Looking for example data
+
+ atch 23 of 26
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 16
+Batch 0 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 55 of epoch 16
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 16, average train loss: wgan: 0.0027937,diff: -0.0000489
+Ep: 16, average train loss: gen : -0.0001519,diff: -0.0001644
+Evaluating performance
+ atch 0 of 26
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 26
+Looking for example data
+
+ atch 2 of 26
+Looking for example data
+
+ atch 3 of 26
+Looking for example data
+
+ atch 4 of 26
+Looking for example data
+
+ atch 5 of 26
+Looking for example data
+
+ atch 6 of 26
+Looking for example data
+
+ atch 7 of 26
+Looking for example data
+
+ atch 8 of 26
+Looking for example data
+
+ atch 9 of 26
+Looking for example data
+
+ atch 10 of 26
+Looking for example data
+
+ atch 11 of 26
+Looking for example data
+
+ atch 12 of 26
+Looking for example data
+
+ atch 13 of 26
+Looking for example data
+
+ atch 14 of 26
+Looking for example data
+
+ atch 15 of 26
+Looking for example data
+
+ atch 16 of 26
+Looking for example data
+
+ atch 17 of 26
+Looking for example data
+
+ atch 18 of 26
+Looking for example data
+
+ atch 19 of 26
+Looking for example data
+
+ atch 20 of 26
+Looking for example data
+
+ atch 21 of 26
+Looking for example data
+
+ atch 22 of 26
+Looking for example data
+
+ atch 23 of 26
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 17
+Batch 0 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 55 of epoch 17
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 17, average train loss: wgan: 0.0026835,diff: -0.0001102
+Ep: 17, average train loss: gen : -0.0002123,diff: -0.0000604
+Evaluating performance
+ atch 0 of 26
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 26
+Looking for example data
+
+ atch 2 of 26
+Looking for example data
+
+ atch 3 of 26
+Looking for example data
+
+ atch 4 of 26
+Looking for example data
+
+ atch 5 of 26
+Looking for example data
+
+ atch 6 of 26
+Looking for example data
+
+ atch 7 of 26
+Looking for example data
+
+ atch 8 of 26
+Looking for example data
+
+ atch 9 of 26
+Looking for example data
+
+ atch 10 of 26
+Looking for example data
+
+ atch 11 of 26
+Looking for example data
+
+ atch 12 of 26
+Looking for example data
+
+ atch 13 of 26
+Looking for example data
+
+ atch 14 of 26
+Looking for example data
+
+ atch 15 of 26
+Looking for example data
+
+ atch 16 of 26
+Looking for example data
+
+ atch 17 of 26
+Looking for example data
+
+ atch 18 of 26
+Looking for example data
+
+ atch 19 of 26
+Looking for example data
+
+ atch 20 of 26
+Looking for example data
+
+ atch 21 of 26
+Looking for example data
+
+ atch 22 of 26
+Looking for example data
+
+ atch 23 of 26
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 18
+Batch 0 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 55 of epoch 18
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 18, average train loss: wgan: 0.0024541,diff: -0.0002294
+Ep: 18, average train loss: gen : -0.0001856,diff: 0.0000267
+Evaluating performance
+ atch 0 of 26
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 26
+Looking for example data
+
+ atch 2 of 26
+Looking for example data
+
+ atch 3 of 26
+Looking for example data
+
+ atch 4 of 26
+Looking for example data
+
+ atch 5 of 26
+Looking for example data
+
+ atch 6 of 26
+Looking for example data
+
+ atch 7 of 26
+Looking for example data
+
+ atch 8 of 26
+Looking for example data
+
+ atch 9 of 26
+Looking for example data
+
+ atch 10 of 26
+Looking for example data
+
+ atch 11 of 26
+Looking for example data
+
+ atch 12 of 26
+Looking for example data
+
+ atch 13 of 26
+Looking for example data
+
+ atch 14 of 26
+Looking for example data
+
+ atch 15 of 26
+Looking for example data
+
+ atch 16 of 26
+Looking for example data
+
+ atch 17 of 26
+Looking for example data
+
+ atch 18 of 26
+Looking for example data
+
+ atch 19 of 26
+Looking for example data
+
+ atch 20 of 26
+Looking for example data
+
+ atch 21 of 26
+Looking for example data
+
+ atch 22 of 26
+Looking for example data
+
+ atch 23 of 26
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 19
+Batch 0 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 55 of epoch 19
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 19, average train loss: wgan: 0.0024494,diff: -0.0000047
+Ep: 19, average train loss: gen : -0.0002609,diff: -0.0000753
+Evaluating performance
+ atch 0 of 26
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 26
+Looking for example data
+
+ atch 2 of 26
+Looking for example data
+
+ atch 3 of 26
+Looking for example data
+
+ atch 4 of 26
+Looking for example data
+
+ atch 5 of 26
+Looking for example data
+
+ atch 6 of 26
+Looking for example data
+
+ atch 7 of 26
+Looking for example data
+
+ atch 8 of 26
+Looking for example data
+
+ atch 9 of 26
+Looking for example data
+
+ atch 10 of 26
+Looking for example data
+
+ atch 11 of 26
+Looking for example data
+
+ atch 12 of 26
+Looking for example data
+
+ atch 13 of 26
+Looking for example data
+
+ atch 14 of 26
+Looking for example data
+
+ atch 15 of 26
+Looking for example data
+
+ atch 16 of 26
+Looking for example data
+
+ atch 17 of 26
+Looking for example data
+
+ atch 18 of 26
+Looking for example data
+
+ atch 19 of 26
+Looking for example data
+
+ atch 20 of 26
+Looking for example data
+
+ atch 21 of 26
+Looking for example data
+
+ atch 22 of 26
+Looking for example data
+
+ atch 23 of 26
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 20
+Batch 0 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 55 of epoch 20
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 20, average train loss: wgan: 0.0022011,diff: -0.0002483
+Ep: 20, average train loss: gen : -0.0001301,diff: 0.0001307
+Evaluating performance
+ atch 0 of 26
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 26
+Looking for example data
+
+ atch 2 of 26
+Looking for example data
+
+ atch 3 of 26
+Looking for example data
+
+ atch 4 of 26
+Looking for example data
+
+ atch 5 of 26
+Looking for example data
+
+ atch 6 of 26
+Looking for example data
+
+ atch 7 of 26
+Looking for example data
+
+ atch 8 of 26
+Looking for example data
+
+ atch 9 of 26
+Looking for example data
+
+ atch 10 of 26
+Looking for example data
+
+ atch 11 of 26
+Looking for example data
+
+ atch 12 of 26
+Looking for example data
+
+ atch 13 of 26
+Looking for example data
+
+ atch 14 of 26
+Looking for example data
+
+ atch 15 of 26
+Looking for example data
+
+ atch 16 of 26
+Looking for example data
+
+ atch 17 of 26
+Looking for example data
+
+ atch 18 of 26
+Looking for example data
+
+ atch 19 of 26
+Looking for example data
+
+ atch 20 of 26
+Looking for example data
+
+ atch 21 of 26
+Looking for example data
+
+ atch 22 of 26
+Looking for example data
+
+ atch 23 of 26
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 21
+Batch 0 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 55 of epoch 21
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 21, average train loss: wgan: 0.0019163,diff: -0.0002848
+Ep: 21, average train loss: gen : -0.0002121,diff: -0.0000820
+Evaluating performance
+ atch 0 of 26
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 26
+Looking for example data
+
+ atch 2 of 26
+Looking for example data
+
+ atch 3 of 26
+Looking for example data
+
+ atch 4 of 26
+Looking for example data
+
+ atch 5 of 26
+Looking for example data
+
+ atch 6 of 26
+Looking for example data
+
+ atch 7 of 26
+Looking for example data
+
+ atch 8 of 26
+Looking for example data
+
+ atch 9 of 26
+Looking for example data
+
+ atch 10 of 26
+Looking for example data
+
+ atch 11 of 26
+Looking for example data
+
+ atch 12 of 26
+Looking for example data
+
+ atch 13 of 26
+Looking for example data
+
+ atch 14 of 26
+Looking for example data
+
+ atch 15 of 26
+Looking for example data
+
+ atch 16 of 26
+Looking for example data
+
+ atch 17 of 26
+Looking for example data
+
+ atch 18 of 26
+Looking for example data
+
+ atch 19 of 26
+Looking for example data
+
+ atch 20 of 26
+Looking for example data
+
+ atch 21 of 26
+Looking for example data
+
+ atch 22 of 26
+Looking for example data
+
+ atch 23 of 26
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 22
+Batch 0 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 55 of epoch 22
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 22, average train loss: wgan: 0.0018327,diff: -0.0000836
+Ep: 22, average train loss: gen : -0.0003355,diff: -0.0001234
+Evaluating performance
+ atch 0 of 26
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 26
+Looking for example data
+
+ atch 2 of 26
+Looking for example data
+
+ atch 3 of 26
+Looking for example data
+
+ atch 4 of 26
+Looking for example data
+
+ atch 5 of 26
+Looking for example data
+
+ atch 6 of 26
+Looking for example data
+
+ atch 7 of 26
+Looking for example data
+
+ atch 8 of 26
+Looking for example data
+
+ atch 9 of 26
+Looking for example data
+
+ atch 10 of 26
+Looking for example data
+
+ atch 11 of 26
+Looking for example data
+
+ atch 12 of 26
+Looking for example data
+
+ atch 13 of 26
+Looking for example data
+
+ atch 14 of 26
+Looking for example data
+
+ atch 15 of 26
+Looking for example data
+
+ atch 16 of 26
+Looking for example data
+
+ atch 17 of 26
+Looking for example data
+
+ atch 18 of 26
+Looking for example data
+
+ atch 19 of 26
+Looking for example data
+
+ atch 20 of 26
+Looking for example data
+
+ atch 21 of 26
+Looking for example data
+
+ atch 22 of 26
+Looking for example data
+
+ atch 23 of 26
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 23
+Batch 0 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 55 of epoch 23
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 23, average train loss: wgan: 0.0013549,diff: -0.0004778
+Ep: 23, average train loss: gen : -0.0003297,diff: 0.0000058
+Evaluating performance
+ atch 0 of 26
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 26
+Looking for example data
+
+ atch 2 of 26
+Looking for example data
+
+ atch 3 of 26
+Looking for example data
+
+ atch 4 of 26
+Looking for example data
+
+ atch 5 of 26
+Looking for example data
+
+ atch 6 of 26
+Looking for example data
+
+ atch 7 of 26
+Looking for example data
+
+ atch 8 of 26
+Looking for example data
+
+ atch 9 of 26
+Looking for example data
+
+ atch 10 of 26
+Looking for example data
+
+ atch 11 of 26
+Looking for example data
+
+ atch 12 of 26
+Looking for example data
+
+ atch 13 of 26
+Looking for example data
+
+ atch 14 of 26
+Looking for example data
+
+ atch 15 of 26
+Looking for example data
+
+ atch 16 of 26
+Looking for example data
+
+ atch 17 of 26
+Looking for example data
+
+ atch 18 of 26
+Looking for example data
+
+ atch 19 of 26
+Looking for example data
+
+ atch 20 of 26
+Looking for example data
+
+ atch 21 of 26
+Looking for example data
+
+ atch 22 of 26
+Looking for example data
+
+ atch 23 of 26
+Looking for example data
+
+
+Logging to wandb
+Begin epoch 24
+Batch 0 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 1 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 2 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 3 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 4 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 5 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 6 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 7 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 8 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 9 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 10 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 11 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 12 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 13 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 14 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 15 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 16 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 17 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 18 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 19 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 20 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 21 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 22 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 23 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 24 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 25 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 26 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 27 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 28 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 29 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 30 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 31 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 32 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 33 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 34 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 35 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 36 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 37 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 38 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 39 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 40 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 41 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 42 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 43 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 44 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 45 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 46 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 47 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 48 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 49 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 50 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 51 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 52 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 53 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Batch 54 of 55 of epoch 24
+Discriminator Step 1 of 1
+Generator step 5 of 5
+Ep: 24, average train loss: wgan: 0.0009282,diff: -0.0004267
+Ep: 24, average train loss: gen : -0.0007036,diff: -0.0003739
+Evaluating performance
+ atch 0 of 26
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 26
+Looking for example data
+
+ atch 2 of 26
+Looking for example data
+
+ atch 3 of 26
+Looking for example data
+
+ atch 4 of 26
+Looking for example data
+
+ atch 5 of 26
+Looking for example data
+
+ atch 6 of 26
+Looking for example data
+
+ atch 7 of 26
+Looking for example data
+
+ atch 8 of 26
+Looking for example data
+
+ atch 9 of 26
+Looking for example data
+
+ atch 10 of 26
+Looking for example data
+
+ atch 11 of 26
+Looking for example data
+
+ atch 12 of 26
+Looking for example data
+
+ atch 13 of 26
+Looking for example data
+
+ atch 14 of 26
+Looking for example data
+
+ atch 15 of 26
+Looking for example data
+
+ atch 16 of 26
+Looking for example data
+
+ atch 17 of 26
+Looking for example data
+
+ atch 18 of 26
+Looking for example data
+
+ atch 19 of 26
+Looking for example data
+
+ atch 20 of 26
+Looking for example data
+
+ atch 21 of 26
+Looking for example data
+
+ atch 22 of 26
+Looking for example data
+
+ atch 23 of 26
+Looking for example data
+
+
+Logging to wandb

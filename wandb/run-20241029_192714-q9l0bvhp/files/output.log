@@ -1,0 +1,299 @@
+Starting Training
+Explainibility training started
+Begin epoch 0
+Batch 0 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 1 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 2 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 3 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 4 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 5 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 6 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 7 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 8 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 9 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 10 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 11 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 12 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 13 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 14 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 15 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 16 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 17 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 18 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 19 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 20 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 21 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 22 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 23 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 24 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 25 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 26 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 27 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 28 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Ep: 0, average train loss: wgan: 0.0096667,diff: 0.0096667
+Ep: 0, average train loss: gen : -0.0000248,diff: -0.0000248
+Evaluating performance
+ atch 0 of 2           
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 2           
+Looking for example data
+
+
+/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/training.py:101: UserWarning: Tight layout not applied. tight_layout cannot make Axes height small enough to accommodate all Axes decorations.
+  plt.tight_layout()
+Logging to wandb
+Begin epoch 1
+Batch 0 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 1 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 2 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 3 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 4 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 5 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 6 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 7 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 8 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 9 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 10 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 11 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 12 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 13 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 14 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 15 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 16 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 17 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 18 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 19 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 20 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 21 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 22 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 23 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 24 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 25 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 26 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 27 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 28 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Ep: 1, average train loss: wgan: 0.0096667,diff: 0.0000000
+Ep: 1, average train loss: gen : -0.0000252,diff: -0.0000004
+Evaluating performance
+ atch 0 of 2           
+Looking for example data
+Found Example Disease Data
+
+ atch 1 of 2           
+Looking for example data
+
+
+/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/training.py:101: UserWarning:
+
+Tight layout not applied. tight_layout cannot make Axes height small enough to accommodate all Axes decorations.
+Logging to wandb
+Begin epoch 2
+Batch 0 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 1 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 2 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 3 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 4 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 5 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 6 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 7 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 8 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 9 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 10 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 11 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 12 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 13 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 14 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 15 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 16 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 17 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 18 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 19 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 20 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 21 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 22 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 23 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 24 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 25 of 29
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 26 of 29
+Discriminator Step 1 of 1
+
+Traceback (most recent call last):
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/dummyData.py", line 152, in <module>
+    T.trainExplainabilityNetworks(discriminator=discriminator,
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/training.py", line 160, in trainExplainabilityNetworks
+    wganLoss = lossFun(discriminator, TrueResults, FakeResults, normal_data, fakeData, lossParams['weights'])
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/training.py", line 12, in loss_wgan
+    eps = torch.rand(compareSize).to(device)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

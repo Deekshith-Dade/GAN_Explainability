@@ -1,0 +1,22 @@
+{"time":"2024-10-30T01:18:07.412783391-06:00","level":"INFO","msg":"using version","core version":"0.18.0"}
+{"time":"2024-10-30T01:18:07.412863261-06:00","level":"INFO","msg":"created symlink","path":"/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/wandb/run-20241030_011807-cvipcp1i/logs/debug-core.log"}
+{"time":"2024-10-30T01:18:07.416924751-06:00","level":"INFO","msg":"using version","core version":"0.18.0"}
+{"time":"2024-10-30T01:18:07.41698395-06:00","level":"INFO","msg":"created symlink","path":"/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/wandb/run-20241030_011807-cvipcp1i/logs/debug-core.log"}
+{"time":"2024-10-30T01:18:07.42521361-06:00","level":"INFO","msg":"created new stream","id":"cvipcp1i"}
+{"time":"2024-10-30T01:18:07.42527988-06:00","level":"INFO","msg":"stream: started","id":"cvipcp1i"}
+{"time":"2024-10-30T01:18:07.425298077-06:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"cvipcp1i"}}
+{"time":"2024-10-30T01:18:07.425324497-06:00","level":"INFO","msg":"handler: started","stream_id":{"value":"cvipcp1i"}}
+{"time":"2024-10-30T01:18:07.425358598-06:00","level":"INFO","msg":"sender: started","stream_id":{"value":"cvipcp1i"}}
+{"time":"2024-10-30T01:18:07.695407245-06:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-30T01:18:07.705090275-06:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-30T13:27:47.198541451-06:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/deekshith/TestExplainability/cvipcp1i/file_stream"}
+{"time":"2024-10-30T18:20:21.046618086-06:00","level":"INFO","msg":"stream: closing","id":"cvipcp1i"}
+{"time":"2024-10-30T18:20:21.046689404-06:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-30T18:20:21.050569268-06:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-30T18:20:21.174527537-06:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-10-30T18:20:21.174602511-06:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-10-30T18:20:21.174653538-06:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-10-30T18:20:21.760923913-06:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"cvipcp1i"}}
+{"time":"2024-10-30T18:20:21.760964254-06:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"cvipcp1i"}}
+{"time":"2024-10-30T18:20:21.760958245-06:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"cvipcp1i"}}
+{"time":"2024-10-30T18:20:21.762903485-06:00","level":"INFO","msg":"stream: closed","id":"cvipcp1i"}

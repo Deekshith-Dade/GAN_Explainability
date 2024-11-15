@@ -1,0 +1,215 @@
+Starting Training
+Explainibility training started
+Begin epoch 0
+Batch 0 of 74 of epoch 0
+Discriminator Step 1 of 1
+/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/autograd/graph.py:769: UserWarning: Attempting to run cuBLAS, but there was no current CUDA context! Attempting to set the primary context... (Triggered internally at ../aten/src/ATen/cuda/CublasHandlePool.cpp:135.)
+  return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+Generator step 1 of 1
+Batch 1 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 2 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 3 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 4 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 5 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 6 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 7 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 8 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 9 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 10 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 11 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 12 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 13 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 14 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 15 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 16 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 17 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 18 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 19 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 20 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 21 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 22 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 23 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 24 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 25 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 26 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 27 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 28 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 29 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 30 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 31 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 32 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 33 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 34 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 35 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 36 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 37 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 38 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 39 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 40 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 41 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 42 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 43 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 44 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 45 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 46 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 47 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 48 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 49 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 50 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 51 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 52 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 53 of 74 of epoch 0
+Discriminator Step 1 of 1
+Generator step 1 of 1
+Batch 54 of 74 of epoch 0
+Exception ignored in: <function _releaseLock at 0x7828491fde40>
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/logging/__init__.py", line 243, in _releaseLock
+    def _releaseLock():
+
+KeyboardInterrupt:
+Traceback (most recent call last):
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/training.py", line 158, in trainExplainabilityNetworks
+    abnormal_data, flag = next(abnormal_data_iter)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 630, in __next__
+    data = self._next_data()
+           ^^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 1317, in _next_data
+    raise StopIteration
+StopIteration
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 1131, in _try_get_data
+    data = self._data_queue.get(timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/multiprocessing/queues.py", line 114, in get
+    raise Empty
+_queue.Empty
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/kclExplainability.py", line 213, in <module>
+    optim_generator=optim_generator,
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/training.py", line 161, in trainExplainabilityNetworks
+    abnormal_data, flag = next(abnormal_data_iter)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 630, in __next__
+    data = self._next_data()
+           ^^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 1327, in _next_data
+    idx, data = self._get_data()
+                ^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 1293, in _get_data
+    success, data = self._try_get_data()
+                    ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/dev_env/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 1144, in _try_get_data
+    raise RuntimeError(f'DataLoader worker (pid(s) {pids_str}) exited unexpectedly') from e
+RuntimeError: DataLoader worker (pid(s) 1630881, 1630944, 1631007, 1631070, 1631133, 1631197, 1631260, 1631323, 1631386, 1631449, 1631512, 1631575, 1631638, 1631701, 1631764, 1631827, 1631890, 1631953, 1632016, 1632079, 1632142) exited unexpectedly

@@ -1,0 +1,3032 @@
+Starting Training
+Explainibility training started
+Begin epoch 0
+Batch 0 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 0
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 0, average train loss: wgan: 0.0058600,diff: 0.0058600
+Ep: 0, average train loss: gen : -0.0001729,diff: -0.0001729
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 3 of 4
+/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/training.py:118: UserWarning: Tight layout not applied. tight_layout cannot make Axes height small enough to accommodate all Axes decorations.
+  plt.tight_layout()
+Logging to wandb
+Begin epoch 1
+Batch 0 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 1
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 1, average train loss: wgan: 0.0065021,diff: 0.0006421
+Ep: 1, average train loss: gen : -0.0000536,diff: 0.0001194
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 3 of 4
+/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability/training.py:118: UserWarning:
+
+Tight layout not applied. tight_layout cannot make Axes height small enough to accommodate all Axes decorations.
+Logging to wandb
+Begin epoch 2
+Batch 0 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 2
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 2, average train loss: wgan: 0.0063845,diff: -0.0001177
+Ep: 2, average train loss: gen : -0.0000384,diff: 0.0000152
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 3 of 4
+Logging to wandb
+Begin epoch 3
+Batch 0 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 3
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 3, average train loss: wgan: 0.0063133,diff: -0.0000711
+Ep: 3, average train loss: gen : -0.0000164,diff: 0.0000220
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 3 of 4
+Logging to wandb
+Begin epoch 4
+Batch 0 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 4
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 4, average train loss: wgan: 0.0063047,diff: -0.0000086
+Ep: 4, average train loss: gen : -0.0000202,diff: -0.0000038
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 3 of 4
+Logging to wandb
+Begin epoch 5
+Batch 0 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 5
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 5, average train loss: wgan: 0.0062877,diff: -0.0000170
+Ep: 5, average train loss: gen : -0.0000333,diff: -0.0000131
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 3 of 4
+Logging to wandb
+Begin epoch 6
+Batch 0 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 6
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 6, average train loss: wgan: 0.0062743,diff: -0.0000135
+Ep: 6, average train loss: gen : -0.0000247,diff: 0.0000086
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 3 of 4
+Logging to wandb
+Begin epoch 7
+Batch 0 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 7
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 7, average train loss: wgan: 0.0062634,diff: -0.0000109
+Ep: 7, average train loss: gen : -0.0000680,diff: -0.0000433
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 3 of 4
+Logging to wandb
+Begin epoch 8
+Batch 0 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 8
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 8, average train loss: wgan: 0.0062648,diff: 0.0000014
+Ep: 8, average train loss: gen : -0.0000207,diff: 0.0000473
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 3 of 4
+Logging to wandb
+Begin epoch 9
+Batch 0 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 9
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 9, average train loss: wgan: 0.0062579,diff: -0.0000069
+Ep: 9, average train loss: gen : -0.0000545,diff: -0.0000338
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 3 of 4
+Logging to wandb
+Begin epoch 10
+Batch 0 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 10
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 10, average train loss: wgan: 0.0062597,diff: 0.0000018
+Ep: 10, average train loss: gen : -0.0000343,diff: 0.0000202
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 3 of 4
+Logging to wandb
+Begin epoch 11
+Batch 0 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 11
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 11, average train loss: wgan: 0.0062506,diff: -0.0000091
+Ep: 11, average train loss: gen : -0.0000193,diff: 0.0000150
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 3 of 4
+Logging to wandb
+Begin epoch 12
+Batch 0 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 12
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 12, average train loss: wgan: 0.0062512,diff: 0.0000005
+Ep: 12, average train loss: gen : -0.0000317,diff: -0.0000124
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 3 of 4
+Logging to wandb
+Begin epoch 13
+Batch 0 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 13
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 13, average train loss: wgan: 0.0062495,diff: -0.0000016
+Ep: 13, average train loss: gen : -0.0000324,diff: -0.0000007
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 3 of 4
+Logging to wandb
+Begin epoch 14
+Batch 0 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 14
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 14, average train loss: wgan: 0.0062447,diff: -0.0000049
+Ep: 14, average train loss: gen : -0.0000342,diff: -0.0000018
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 3 of 4
+Logging to wandb
+Begin epoch 15
+Batch 0 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 15
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 15, average train loss: wgan: 0.0062473,diff: 0.0000027
+Ep: 15, average train loss: gen : -0.0000320,diff: 0.0000023
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 3 of 4
+Logging to wandb
+Begin epoch 16
+Batch 0 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 16
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 16, average train loss: wgan: 0.0062420,diff: -0.0000053
+Ep: 16, average train loss: gen : -0.0000341,diff: -0.0000021
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 3 of 4
+Logging to wandb
+Begin epoch 17
+Batch 0 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 17
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 17, average train loss: wgan: 0.0062462,diff: 0.0000042
+Ep: 17, average train loss: gen : -0.0000567,diff: -0.0000226
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 3 of 4
+Logging to wandb
+Begin epoch 18
+Batch 0 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 18
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 18, average train loss: wgan: 0.0062442,diff: -0.0000020
+Ep: 18, average train loss: gen : -0.0000363,diff: 0.0000204
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 3 of 4
+Logging to wandb
+Begin epoch 19
+Batch 0 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 19
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 19, average train loss: wgan: 0.0062439,diff: -0.0000003
+Ep: 19, average train loss: gen : -0.0000430,diff: -0.0000067
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 3 of 4
+Logging to wandb
+Begin epoch 20
+Batch 0 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 20
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 20, average train loss: wgan: 0.0062378,diff: -0.0000061
+Ep: 20, average train loss: gen : -0.0000561,diff: -0.0000130
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 3 of 4
+Logging to wandb
+Begin epoch 21
+Batch 0 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 21
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 21, average train loss: wgan: 0.0062408,diff: 0.0000030
+Ep: 21, average train loss: gen : -0.0000280,diff: 0.0000281
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 3 of 4
+Logging to wandb
+Begin epoch 22
+Batch 0 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 22
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 22, average train loss: wgan: 0.0062415,diff: 0.0000007
+Ep: 22, average train loss: gen : -0.0000370,diff: -0.0000090
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 3 of 4
+Logging to wandb
+Begin epoch 23
+Batch 0 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 23
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 23, average train loss: wgan: 0.0062354,diff: -0.0000061
+Ep: 23, average train loss: gen : -0.0000422,diff: -0.0000052
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 3 of 4
+Logging to wandb
+Begin epoch 24
+Batch 0 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 1 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 2 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 3 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 4 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 5 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 6 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 7 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 8 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 9 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 10 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 11 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 12 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 13 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 14 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 15 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 16 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 17 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 18 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 19 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 20 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 21 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 22 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 23 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 24 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 25 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 26 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 27 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 28 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 29 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 30 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 31 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 32 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 33 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 34 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 35 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Batch 36 of 37 of epoch 24
+Discriminator Step 1 of 1
+Generator step 10 of 10
+Ep: 24, average train loss: wgan: 0.0062382,diff: 0.0000028
+Ep: 24, average train loss: gen : -0.0000384,diff: 0.0000038
+Evaluating performance
+ atch 0 of 4
+Looking for example data
+Found Example Disease Data
+
+ atch 3 of 4
+Logging to wandb
