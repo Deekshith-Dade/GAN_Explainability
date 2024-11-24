@@ -36,8 +36,8 @@ class SpatialTransform(nn.Module):
         scaled_rotated_vcg_data = scaling_matrix @ rotated_vcg_data
 
         
-        transoformed_ecg = self.dowers_transform @ scaled_rotated_vcg_data
-        return transoformed_ecg
+        transformed_ecg = self.dowers_transform @ scaled_rotated_vcg_data
+        return transformed_ecg
     
     def rotation_matrix_xyz(self, r):
         rotations = tch.FloatTensor(3).uniform_(-r, r)

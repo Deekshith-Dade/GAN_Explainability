@@ -1,5 +1,5 @@
-import numpy as np
 import pandas as pd
+import numpy as np
 import random
 
 import torch
@@ -13,6 +13,7 @@ import training as T
 import wandb
 import datetime
 import os
+import pdb
 
 baseDir = '/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability'
 dataDir = '/usr/sci/cibc/Maprodxn/ClinicalECGData/AllClinicalECGs/'
@@ -76,22 +77,24 @@ testPatientInds = patientIds[numTrain:numTest + numTrain]
 trainECGs = kclCohort[kclCohort['PatId'].isin(trainPatientInds)]
 testECGs = kclCohort[kclCohort['PatId'].isin(testPatientInds)]
 
-desiredTrainingAmount = len(trainECGs) #// 12
+desiredTrainingAmount = len(trainECGs)
 
 if desiredTrainingAmount != 'all':
 	if len(trainECGs)>desiredTrainingAmount:
 		trainECGs = trainECGs.sample(n=desiredTrainingAmount)
 
-kclTaskParams = dict(highThresh = 5, lowThresh=4)
+kclTaskParams = dict(highThresh = 5, lowThresh=4, highThreshRestrict=8.5)
 trainECGs_normal = trainECGs[(trainECGs['KCLVal']>=kclTaskParams['lowThresh']) & (trainECGs['KCLVal']<=kclTaskParams['highThresh'])]
-trainECGs_abnormal = trainECGs[(trainECGs['KCLVal']>kclTaskParams['highThresh'])]
+trainECGs_abnormal = trainECGs[(trainECGs['KCLVal']>kclTaskParams['highThresh']) & (trainECGs['KCLVal']<=kclTaskParams['highThreshRestrict'])]
 
 
 testECGs_normal = testECGs[(testECGs['KCLVal']>=kclTaskParams['lowThresh']) & (testECGs['KCLVal']<=kclTaskParams['highThresh'])]
-testECGs_abnormal = testECGs[(testECGs['KCLVal']>kclTaskParams['highThresh'])]
+testECGs_abnormal = testECGs[(testECGs['KCLVal']>kclTaskParams['highThresh']) & (testECGs['KCLVal']<=kclTaskParams['highThreshRestrict'])]
 
+dataset_augs = DD.ECG_KCL_Augs_Datasetloader
+dataset_regular = DD.ECG_KCL_Datasetloader
 
-trainNormalDataset = DD.ECG_KCL_Datasetloader(
+trainNormalDataset = dataset_regular(
     baseDir= dataDir + 'pythonData/',
     ecgs=trainECGs_normal['ECGFile'].tolist(),
     kclVals=trainECGs_normal['KCLVal'].tolist(),
@@ -100,7 +103,7 @@ trainNormalDataset = DD.ECG_KCL_Datasetloader(
     randomCrop=True,
 )
 
-trainAbnormalDataset = DD.ECG_KCL_Datasetloader(
+trainAbnormalDataset = dataset_augs(
     baseDir= dataDir + 'pythonData/',
     ecgs=trainECGs_abnormal['ECGFile'].tolist(),
     kclVals=trainECGs_abnormal['KCLVal'].tolist(),
@@ -110,7 +113,7 @@ trainAbnormalDataset = DD.ECG_KCL_Datasetloader(
     
 )
 
-testNormalData = DD.ECG_KCL_Datasetloader(
+testNormalData = dataset_regular(
     baseDir= dataDir + 'pythonData/',
     ecgs=testECGs_normal['ECGFile'].tolist(),
     kclVals=testECGs_normal['KCLVal'].tolist(),
@@ -119,7 +122,7 @@ testNormalData = DD.ECG_KCL_Datasetloader(
     randomCrop=True,
 )
 
-testAbnormalData = DD.ECG_KCL_Datasetloader(
+testAbnormalData = dataset_regular(
     baseDir= dataDir + 'pythonData/',
     ecgs=testECGs_abnormal['ECGFile'].tolist(),
     kclVals=testECGs_abnormal['KCLVal'].tolist(),
@@ -128,6 +131,18 @@ testAbnormalData = DD.ECG_KCL_Datasetloader(
     randomCrop=True,
     
 )
+
+# Save the ECGs from testAbnormalData as a numpy array along with the KCL values
+# ECGs = torch.empty((0, 8, 2500))
+# KCLs = torch.empty(0)
+# for i in range(len(testAbnormalData)):
+#     ECGs = torch.cat((ECGs, testAbnormalData[i][0]), 0)
+#     KCLs = torch.cat((KCLs, torch.tensor(testAbnormalData[i][1]).unsqueeze(0)), 0)
+
+# file = dict(ECGs=ECGs, KCLs=KCLs)
+# torch.save(file, f'{baseDir}/testAbnormalData/testAbnormalData.pt')
+
+# pdb.set_trace()
 
 trainNormalDataLoader = torch.utils.data.DataLoader(trainNormalDataset, shuffle=True, batch_size=batch_size, num_workers=32, drop_last=True)
 trainAbnormalDataLoader = torch.utils.data.DataLoader(trainAbnormalDataset, shuffle=True, batch_size=batch_size, num_workers=32, drop_last=True)
@@ -158,18 +173,18 @@ if multipleGPUs:
  
 # classificationIter_perEp = 5 * [0] + [0] * 10
 discrimIter_perEp = numEpoch * [1]
-genIter_perEp = [5] * numEpoch
+genIter_perEp = [10] * numEpoch
 
-modPenalties = dict(method=['l1','l1_dt'],weights=[1e-3,1e-3])
+modPenalties = dict(method=['l1','l1_dt'],weights=[1e-3,1e-3])  #  dict(method=['l2'],weights=[1e-5]) 
 modificationPenaltyL = lambda m : modificationPenalty(m,method=modPenalties['method'],weights=modPenalties['weights'])
 networkLabel = 'KCL_Explainability'
 # LOSS PARAMS
-lossParams = dict(learningRate_gen = 1e-3,learningRate_dis=1e-4,type = 'wgan',weights=dict(discriminatorWeight=1.,
+lossParams = dict(learningRate_gen = 1e-4,learningRate_dis=1e-4,type = 'wgan',weights=dict(discriminatorWeight=1.,
 																 descrimFakeWeight = 1.,
 																 descrimTrueWeight = 1.,
 																 classificationWeight=1.,
 																 generatorWeight=1.,
-																 gradWeight=100.,
+																 gradWeight=1.,
 																 modificationWeight=5.))
 # Gen 1e-3, Dis 1e-4
 if __name__ == "__main__":
@@ -183,7 +198,7 @@ if __name__ == "__main__":
         torch.backends.cudnn.deterministic = True
         torch.backends.cudnn.benchmark = False
     print("Main")
-    seed_everything(42)
+    # seed_everything(42)
     config = dict (
 			  learning_rate = [lossParams['learningRate_gen'],lossParams['learningRate_dis']],
 			  lossType = lossParams['type'],
@@ -197,10 +212,12 @@ if __name__ == "__main__":
 			  discrimIter_perEp = discrimIter_perEp,
 			#   classificationIter_perEp = classificationIter_perEp,
 			  modPenalties=modPenalties,
+            trainNormalSize = len(trainNormalDataset),
+            trainAbnormalSize = len(trainAbnormalDataset),
 			)
     if logtowandb:
         wandbrun = wandb.init(
-		  project="KCLExplainability",
+		  project="KCLExplainability3",
 		  notes=f"train_{'networkLabel'}, not using sigmoid outputs any more",
 		  tags=["training","KCL"],
 		  config=config,

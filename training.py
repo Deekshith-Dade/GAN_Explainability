@@ -30,11 +30,11 @@ def loss_wgan(discriminator, trueResults, fakeResults, trueData, fakeData, weigh
     
     return wganloss
 
-def eval_generator_discriminator(discriminator, generator, testNormalData, testAbnormalData, lossFun, lossParams, modificationFunction, modificationPenalty):
+def eval_generator_discriminator(discriminator, generator, testNormalData, testAbnormalData, lossFun, lossParams, modificationFunction, modificationPenalty, directory, epoch):
     discriminator.eval()
     generator.eval()
     plt.figure(1)  
-    subDims = [8, 2]
+    subDims = [8, 4]
     fig, axes = plt.subplots(subDims[0], subDims[1])
     figNeeded = 1
     diseaseFound = 0
@@ -69,50 +69,37 @@ def eval_generator_discriminator(discriminator, generator, testNormalData, testA
 							modificationPenalty(modifications)*lossParams['weights']['modificationWeight']
             runningLoss_wgan += wganLoss.item()
             runningLoss_generator += generatorLoss.item()
-            if figNeeded and not diseaseFound:
-                print(' ')
-                print('Looking for example data')
-                plt.suptitle('Example Data')
-                diseaseIx = torch.argmax(kclVals)
-                diseaseVal = kclVals[diseaseIx]
-                
-                randIx = torch.randint(0, abnormalData.shape[0], (1,))[0]
-                randVal = kclVals[randIx]
-                # Mention the diseaseVal in the plots title
-                fig.suptitle(f'Disease Value: {diseaseVal.item()}')
-                if diseaseIx.nelement()!=0:
-                    if not diseaseFound:
-                        print('Found Example Disease Data')
-                        diseaseFound = 1
-                        for lead in range(8):
-                            axes[lead, 0].title.set_text(f'D {lead}, {diseaseVal}')
-                            axes[lead, 0].plot(abnormalData[diseaseIx, 0, lead,:].detach().clone().squeeze().cpu().numpy(), 'k', linewidth=1, linestyle='--')
-                            axes[lead, 0].plot(modifications[diseaseIx, 0, lead, :].detach().clone().squeeze().cpu().numpy(), 'r', linewidth=1, linestyle='--')
-                            axes[lead, 0].plot(modificationFunction(abnormalData[diseaseIx,0,lead,:].detach().clone(),modifications[diseaseIx,0,lead,:].detach().clone()).squeeze().cpu().numpy(),'g', linewidth=2)
-                            
-                            axes[lead, 1].title.set_text(f'D {lead}, {randVal}')
-                            axes[lead, 1].plot(abnormalData[randIx, 0, lead,:].detach().clone().squeeze().cpu().numpy(), 'k', linewidth=1, linestyle='--')
-                            axes[lead, 1].plot(modifications[randIx, 0, lead, :].detach().clone().squeeze().cpu().numpy(), 'r', linewidth=1, linestyle='--')
-                            axes[lead, 1].plot(modificationFunction(abnormalData[randIx,0,lead,:].detach().clone(),modifications[randIx,0,lead,:].detach().clone()).squeeze().cpu().numpy(),'g', linewidth=2)
-                            
-
-                            
-                
-                # normalIxs = torch.randint(0, normalData.shape[0], (1,))
-                # if normalIxs.nelement() != 0:
-                #     if not healthFound:
-                #         print('Found example healthy')
-                #         healthFound = 1
-                #         for lead in range(8):
-                #             axes[lead,1].plot(normalData[normalIxs[0],0,lead,:].detach().clone().squeeze().cpu().numpy(),'k')
-                            
-                
-                if healthFound == 1 and diseaseFound == 1:
-                    figNeeded = 0
-                print(' ')
-    
         
-        print(' ')			
+        # Work on Samples
+        baseDir = '/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability'
+        samples_dir = f'{baseDir}/testAbnormalData/hundred_samples.pt'
+        samples = torch.load(samples_dir, weights_only=True)
+        
+        samples['ECGs'] = samples['ECGs'].unsqueeze(1)
+        modifications = generator(samples['ECGs'])
+        samples['modifications'] = modifications
+        directory = f'{directory}/samples/'
+        os.makedirs(directory, exist_ok=True)
+        torch.save(samples, f'{directory}/samples_{epoch}.pt')
+        
+        # Work on 4 Example Data
+        indices = [76, 40, 99, 36]
+
+        ECGs = torch.stack([samples['ECGs'][i] for i in indices])
+        ECGs = ECGs.to(device)
+        KCLs = torch.stack([samples['KCLs'][i] for i in indices])
+        modifications = generator(ECGs)
+        
+        if figNeeded:
+            print("Creating Figure")
+            plt.suptitle(f'Four Example ECGs')
+            for i in range(4):
+                for lead in range(8):
+                    axes[lead, i].title.set_text(f'D {lead}, {KCLs[i].item()}')
+                    axes[lead, i].plot(ECGs[i, 0, lead,:].detach().clone().squeeze().cpu().numpy(), 'k', linewidth=1, linestyle='--')
+                    axes[lead, i].plot(modifications[i, 0, lead, :].detach().clone().squeeze().cpu().numpy(), 'r', linewidth=1, linestyle='--')
+                    axes[lead, i].plot(modificationFunction(ECGs[i,0,lead,:].detach().clone(),modifications[i,0,lead,:].detach().clone()).squeeze().cpu().numpy(),'g', linewidth=2)
+                    
         discriminator.zero_grad()
         generator.zero_grad()
         evalLoss_wgan = runningLoss_wgan/len(testNormalData.dataset)
@@ -130,7 +117,8 @@ def trainExplainabilityNetworks(discriminator, generator, optim_discriminator, o
     prevTrainLoss_class = 0.0
     bestEval = 1e10
     datetimeStr = str(datetime.datetime.now()).replace(' ','_').replace(':','-').replace('.','-')
-    os.makedirs(modelSaveDir, exist_ok=True)
+    dir = f"{modelSaveDir}/RUN_{datetimeStr}/"
+    os.makedirs(dir, exist_ok=True)
     print('Explainibility training started')
     # problemType = discriminator.problemType
     print(f"Training Sizes: normal dataset = {len(trainNormalData.dataset)} and abnormal dataset = {len(trainAbnormalData.dataset)}")
@@ -235,9 +223,21 @@ def trainExplainabilityNetworks(discriminator, generator, optim_discriminator, o
         prevTrainingLoss_generator = averageTrainLoss_generator
         trainingLog = dict(Epoch=ep,trainLoss_wgan=averageTrainLoss_wgan,trainLoss_generator=averageTrainLoss_generator,averageFake=averageFake,averageTrue=averageTrue,average_generatorPenalty=averageGenPen, trueMinusFake=averageTrue-averageFake)
         saveFlag = 0
+        
+        save_config = dict(
+            epoch=ep,
+            generator=generator.state_dict(),
+            datetime=datetimeStr,
+            lossParams=lossParams,
+        )
+        os.makedirs(f"{dir}/generator/", exist_ok=True)
+        torch.save(save_config, f'{dir}/generator/generator_{ep}.pt')
+        print(f'Saved model at {dir}/generator/generator_{ep}.pt')
+        
+        
         if ep in evalUpdates:
             print('Evaluating performance')
-            evalLoss_wgan,evalLoss_generator,figure = eval_generator_discriminator(discriminator,generator,testNormalData, testAbnormalData,lossFun,lossParams,modificationFunction,modificationPenalty)
+            evalLoss_wgan,evalLoss_generator,figure = eval_generator_discriminator(discriminator,generator,testNormalData, testAbnormalData,lossFun,lossParams,modificationFunction,modificationPenalty, directory=dir, epoch=ep)
             evalLoss = evalLoss_wgan + evalLoss_generator
             if evalLoss < bestEval:
                 bestEval = evalLoss
@@ -255,8 +255,9 @@ def trainExplainabilityNetworks(discriminator, generator, optim_discriminator, o
                     
                 
                 # torch.save(generator.state_dict(), f'{modelSaveDir}/generator_{datetime}.pt')
-                torch.save(save_config, f'{modelSaveDir}/state_{datetimeStr}.pt')
-                print(f'Saved model at {modelSaveDir}/state_{datetimeStr}.pt')
+                
+                torch.save(save_config, f'{dir}/state_{datetimeStr}.pt')
+                print(f'Saved model at {dir}/state_{datetimeStr}.pt')
                 saveFlag = 1
             trainingLog['evalLoss_total'] = evalLoss
             trainingLog['evalLoss_wgan'] = evalLoss_wgan

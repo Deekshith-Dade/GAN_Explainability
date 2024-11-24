@@ -2,6 +2,7 @@ import torch
 import torch.nn as nn
 import torch as tch
 import torch.nn.functional as F
+import pdb
 
 class coderBlock(nn.Module):
     def __init__(self,in_channels, out_channels, conv_kernel=(3,3,3),\
@@ -242,12 +243,15 @@ def modifyData_addition(data, generatorOutput):
     return data + generatorOutput
 
 def modificationPenalty(modifications, method, weights, dt=0.002):
+    
     penalty = torch.tensor([0.0]).to(modifications.get_device())
     for m, w in zip(modifications, weights):
         if method == 'L1':
             penalty +=modifications.norm(1,dim=3).mean() * w
         if method == 'L1_dt':
             penalty +=tch.gradient(modifications,dim=3,spacing=dt)[0].norm(1,dim=3).mean() * w
+        if m == 'l2':
+            penalty +=modifications.norm(2,dim=3).mean() * w
     return penalty
 
     
