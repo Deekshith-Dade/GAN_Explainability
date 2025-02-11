@@ -77,7 +77,7 @@ testPatientInds = patientIds[numTrain:numTest + numTrain]
 trainECGs = kclCohort[kclCohort['PatId'].isin(trainPatientInds)]
 testECGs = kclCohort[kclCohort['PatId'].isin(testPatientInds)]
 
-desiredTrainingAmount = len(trainECGs)
+desiredTrainingAmount = len(trainECGs) // 12
 
 if desiredTrainingAmount != 'all':
 	if len(trainECGs)>desiredTrainingAmount:
@@ -132,6 +132,7 @@ testAbnormalData = dataset_regular(
     
 )
 
+
 # Save the ECGs from testAbnormalData as a numpy array along with the KCL values
 # ECGs = torch.empty((0, 8, 2500))
 # KCLs = torch.empty(0)
@@ -173,19 +174,19 @@ if multipleGPUs:
  
 # classificationIter_perEp = 5 * [0] + [0] * 10
 discrimIter_perEp = numEpoch * [1]
-genIter_perEp = [10] * numEpoch
+genIter_perEp = [15] * numEpoch
 
-modPenalties = dict(method=['l1','l1_dt'],weights=[1e-3,1e-3])  #  dict(method=['l2'],weights=[1e-5]) 
+modPenalties =   dict(method=['l1','l1_dt'],weights=[1e-5, 1e-5]) #  dict(method=['l2'],weights=[1e-3])
 modificationPenaltyL = lambda m : modificationPenalty(m,method=modPenalties['method'],weights=modPenalties['weights'])
 networkLabel = 'KCL_Explainability'
 # LOSS PARAMS
-lossParams = dict(learningRate_gen = 1e-4,learningRate_dis=1e-4,type = 'wgan',weights=dict(discriminatorWeight=1.,
+lossParams = dict(learningRate_gen = 1e-3,learningRate_dis=1e-4,type = 'wgan',weights=dict(discriminatorWeight=1.,
 																 descrimFakeWeight = 1.,
 																 descrimTrueWeight = 1.,
 																 classificationWeight=1.,
 																 generatorWeight=1.,
 																 gradWeight=1.,
-																 modificationWeight=5.))
+																 modificationWeight=1.))
 # Gen 1e-3, Dis 1e-4
 if __name__ == "__main__":
     
@@ -217,7 +218,7 @@ if __name__ == "__main__":
 			)
     if logtowandb:
         wandbrun = wandb.init(
-		  project="KCLExplainability3",
+		  project="KCLExplainability4",
 		  notes=f"train_{'networkLabel'}, not using sigmoid outputs any more",
 		  tags=["training","KCL"],
 		  config=config,

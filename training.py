@@ -5,6 +5,11 @@ from itertools import cycle
 import sys
 import datetime
 import os
+import numpy as np
+import json
+from scipy.io import savemat
+
+torch.cuda.empty_cache()
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 gpuIds = range(torch.cuda.device_count())
@@ -71,16 +76,41 @@ def eval_generator_discriminator(discriminator, generator, testNormalData, testA
             runningLoss_generator += generatorLoss.item()
         
         # Work on Samples
+        # import pdb; pdb.set_trace()
         baseDir = '/usr/sci/cibc/ProjectsAndScratch/DeekshithMLECG/explainability'
         samples_dir = f'{baseDir}/testAbnormalData/hundred_samples.pt'
-        samples = torch.load(samples_dir, weights_only=True)
+        samples = torch.load(samples_dir, weights_only=True, map_location=torch.device("cpu"))
         
-        samples['ECGs'] = samples['ECGs'].unsqueeze(1)
         modifications = generator(samples['ECGs'])
-        samples['modifications'] = modifications
+        
+        samples['modifications'] = modifications.cpu()
+        samples['generated_ecg'] = modificationFunction(samples['ECGs'], samples['modifications'])
+        
+        matlab_data = {
+            "ECGs": samples["ECGs"].numpy().astype(float),
+            "KCLs": samples["KCLs"].numpy().astype(float),
+            "Paths": np.array(samples["PATHS"], dtype=object),  # Paths as an object array
+            "Modifications": samples["modifications"].numpy().astype(float),
+            "Generated_ECGs": samples['generated_ecg'].numpy().astype(float)
+        }
+        
+        ECGs = matlab_data['ECGs']
+        generated_ecgs = matlab_data['Generated_ECGs']
+        for i in range(ECGs.shape[0]):
+            ecg = ECGs[i].squeeze(0)
+            generated = generated_ecgs[i].squeeze(0)
+            matlab_data[f'ecg_{i}'] = ecg
+            matlab_data[f'generated_ecg_{i}'] = generated
+        
         directory = f'{directory}/samples/'
         os.makedirs(directory, exist_ok=True)
+        os.makedirs(f'{directory}/modifications/', exist_ok=True)
         torch.save(samples, f'{directory}/samples_{epoch}.pt')
+        # torch.save(matlab_data, f'{directory}/matlab_{epoch}.pt')
+        savemat(f'{directory}/matlab_{epoch}.mat', matlab_data)
+        
+        with open(f'{directory}/modifications/modifications_{epoch}.json', 'w') as json_file:
+            json.dump(modifications.tolist(), json_file)
         
         # Work on 4 Example Data
         indices = [76, 40, 99, 36]

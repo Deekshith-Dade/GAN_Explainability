@@ -127,9 +127,9 @@ class ECG_KCL_Augs_Datasetloader(Dataset):
 		self.allowMismatchTime = allowMismatchTime
 		self.mismatchFix = mismatchFix
 		self.randomCrop = randomCrop
-		self.ecgs = [ecg for ecg in self.ecgs for _ in range(3)]
-		self.kclVals = [kcl for kcl in self.kclVals for _ in range(3)]
-		self.augmentationFlag = [False, True, True] * len(self.kclVals)
+		self.ecgs = [ecg for ecg in self.ecgs for _ in range(2)]
+		self.kclVals = [kcl for kcl in self.kclVals for _ in range(2)]
+		self.augmentationFlag = [False, True] * len(self.kclVals)
 		self.cropSize = cropSize
 		if self.randomCrop:
 			self.expectedTime = self.cropSize

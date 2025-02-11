@@ -4,3 +4,7 @@
 /wandb
 /*.ipynb
 /testAbnormalData
+/pfeifer_data
+/*.json
+/pfeifer*
+/*.pt
